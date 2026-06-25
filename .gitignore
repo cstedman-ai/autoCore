@@ -3,7 +3,6 @@ node_modules/
 
 # Дистрибутивы и сборка
 dist/
-lib/
 build/
 
 # Логи
