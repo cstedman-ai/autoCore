@@ -5,6 +5,7 @@ export const aion: Manufacturer = {
   yearFounded: 2018,
   countryOfOrigin: "China",
   website: "https://www.gac-aion.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Aion_(marque)",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["GAC Group"],
   subsidiaries: [],

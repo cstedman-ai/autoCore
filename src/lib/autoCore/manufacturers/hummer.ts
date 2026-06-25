@@ -5,6 +5,7 @@ export const hummer: Manufacturer = {
   yearFounded: 1992,
   countryOfOrigin: "United States",
   website: "https://www.gmc.com/electric/hummer-ev",
+  wikipedia: "https://en.wikipedia.org/wiki/Hummer",
   socialMedia: {
     twitter: null,
     facebook: null,

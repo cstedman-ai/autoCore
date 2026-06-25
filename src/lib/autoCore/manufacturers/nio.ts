@@ -5,6 +5,7 @@ export const nio: Manufacturer = {
   yearFounded: 2014,
   countryOfOrigin: "China",
   website: "https://www.nio.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Nio_(car_company)",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["William Li"],
   subsidiaries: ["Onvo", "Firefly"],

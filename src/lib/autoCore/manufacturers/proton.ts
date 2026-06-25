@@ -5,6 +5,7 @@ export const proton: Manufacturer = {
   yearFounded: 1983,
   countryOfOrigin: "Malaysia",
   website: "https://www.proton.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Proton_Holdings",
   socialMedia: {
     twitter: "https://twitter.com/protoncars",
     facebook: "https://www.facebook.com/proton",

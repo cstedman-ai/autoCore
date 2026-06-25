@@ -5,6 +5,7 @@ export const harmonicBalancer: Part = {
   category: "Engine",
   description: "A damped pulley mounted on the crankshaft nose.",
   use: "Reduces torsional vibration of the crankshaft and drives accessory belts.",
+  wikipedia: "https://en.wikipedia.org/wiki/Harmonic_damper",
   connectsTo: ["Crankshaft", "Serpentine Belt"],
   connectedFrom: ["Crankshaft"],
   averageCostUsd: 120,

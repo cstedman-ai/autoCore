@@ -5,6 +5,7 @@ export const seat: Manufacturer = {
   yearFounded: 1950,
   countryOfOrigin: "Spain",
   website: "https://www.seat.com",
+  wikipedia: "https://en.wikipedia.org/wiki/SEAT",
   socialMedia: {
     twitter: "https://twitter.com/SEAT",
     facebook: "https://www.facebook.com/SEAT",

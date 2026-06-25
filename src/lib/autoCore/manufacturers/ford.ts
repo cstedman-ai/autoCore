@@ -5,6 +5,7 @@ export const ford: Manufacturer = {
   yearFounded: 1903,
   countryOfOrigin: "United States",
   website: "https://www.ford.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Ford_Motor_Company",
   socialMedia: {
     twitter: "https://twitter.com/Ford",
     facebook: "https://www.facebook.com/ford",

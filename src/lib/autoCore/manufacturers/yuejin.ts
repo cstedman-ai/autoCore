@@ -5,6 +5,7 @@ export const yuejin: Manufacturer = {
   yearFounded: 1958,
   countryOfOrigin: "China",
   website: "https://www.saicmaxus.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Yuejin",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Nanjing Automobile Corporation"],
   subsidiaries: [],

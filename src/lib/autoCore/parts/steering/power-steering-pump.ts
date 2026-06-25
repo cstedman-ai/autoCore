@@ -5,6 +5,7 @@ export const powerSteeringPump: Part = {
   category: "Steering",
   description: "A hydraulic pump assisting steering effort.",
   use: "Provides hydraulic pressure to reduce steering effort.",
+  wikipedia: "https://en.wikipedia.org/wiki/Power_steering",
   connectsTo: ["Steering Rack", "Serpentine Belt"],
   connectedFrom: ["Serpentine Belt"],
   averageCostUsd: 150,

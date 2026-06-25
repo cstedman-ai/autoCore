@@ -5,6 +5,7 @@ export const aito: Manufacturer = {
   yearFounded: 2021,
   countryOfOrigin: "China",
   website: "https://aito.auto",
+  wikipedia: "https://en.wikipedia.org/wiki/Aito_(marque)",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Seres Group", "Huawei"],
   subsidiaries: [],

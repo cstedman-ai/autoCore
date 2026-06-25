@@ -5,6 +5,7 @@ export const ineosAutomotive: Manufacturer = {
   yearFounded: 2017,
   countryOfOrigin: "United Kingdom",
   website: "https://ineosgrenadier.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Ineos_Automotive",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Jim Ratcliffe"],
   subsidiaries: [],

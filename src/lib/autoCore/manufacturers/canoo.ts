@@ -5,6 +5,7 @@ export const canoo: Manufacturer = {
   yearFounded: 2017,
   countryOfOrigin: "United States",
   website: "https://www.canoo.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Canoo",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Stefan Krause", "Ulrich Kranz"],
   subsidiaries: [],

@@ -5,6 +5,7 @@ export const morris: Manufacturer = {
   yearFounded: 1912,
   countryOfOrigin: "United Kingdom",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Morris_Motors",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["William Morris"],
   subsidiaries: [],

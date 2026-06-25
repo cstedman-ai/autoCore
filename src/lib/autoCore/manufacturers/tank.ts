@@ -5,6 +5,7 @@ export const tank: Manufacturer = {
   yearFounded: 2021,
   countryOfOrigin: "China",
   website: "https://www.tanksuv.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Tank_(marque)",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Great Wall Motors"],
   subsidiaries: [],

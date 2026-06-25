@@ -5,6 +5,7 @@ export const timingBelt: Part = {
   category: "Engine",
   description: "A toothed rubber belt synchronizing the crankshaft and camshaft.",
   use: "Keeps valve timing in sync with piston motion on belt-driven engines.",
+  wikipedia: "https://en.wikipedia.org/wiki/Timing_belt",
   connectsTo: ["Camshaft", "Crankshaft", "Water Pump"],
   connectedFrom: ["Crankshaft"],
   averageCostUsd: 60,

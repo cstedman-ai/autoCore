@@ -5,6 +5,7 @@ export const foton: Manufacturer = {
   yearFounded: 1996,
   countryOfOrigin: "China",
   website: "https://www.foton-global.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Foton_Motor",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["BAIC Group"],
   subsidiaries: [],

@@ -5,6 +5,7 @@ export const fuelRail: Part = {
   category: "Fuel System",
   description: "A manifold tube supplying fuel to the injectors.",
   use: "Distributes pressurized fuel evenly to each injector.",
+  wikipedia: "https://en.wikipedia.org/wiki/Fuel_rail",
   connectsTo: ["Fuel Injector", "Fuel Pump"],
   connectedFrom: ["Fuel Pump"],
   averageCostUsd: 80,

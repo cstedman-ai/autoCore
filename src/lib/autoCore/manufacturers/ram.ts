@@ -5,6 +5,7 @@ export const ram: Manufacturer = {
   yearFounded: 2010,
   countryOfOrigin: "United States",
   website: "https://www.ramtrucks.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Ram_Trucks",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Chrysler"],
   subsidiaries: [],

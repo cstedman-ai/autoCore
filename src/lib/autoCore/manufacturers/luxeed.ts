@@ -5,6 +5,7 @@ export const luxeed: Manufacturer = {
   yearFounded: 2023,
   countryOfOrigin: "China",
   website: "https://www.himaauto.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Luxeed",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Chery", "Huawei"],
   subsidiaries: [],

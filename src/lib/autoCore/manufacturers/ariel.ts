@@ -5,6 +5,7 @@ export const ariel: Manufacturer = {
   yearFounded: 1991,
   countryOfOrigin: "United Kingdom",
   website: "https://www.arielmotor.co.uk",
+  wikipedia: "https://en.wikipedia.org/wiki/Ariel_Motor_Company",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Simon Saunders"],
   subsidiaries: [],

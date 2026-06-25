@@ -5,6 +5,7 @@ export const gmKorea: Manufacturer = {
   yearFounded: 2002,
   countryOfOrigin: "South Korea",
   website: "https://www.gm-korea.co.kr",
+  wikipedia: "https://en.wikipedia.org/wiki/GM_Korea",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["General Motors"],
   subsidiaries: [],

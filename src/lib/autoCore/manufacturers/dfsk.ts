@@ -5,6 +5,7 @@ export const dfsk: Manufacturer = {
   yearFounded: 2003,
   countryOfOrigin: "China",
   website: "https://www.dfsk.com",
+  wikipedia: "https://en.wikipedia.org/wiki/DFSK",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Dongfeng Motor Corporation", "Sokon Group"],
   subsidiaries: [],

@@ -5,6 +5,7 @@ export const changan: Manufacturer = {
   yearFounded: 1862,
   countryOfOrigin: "China",
   website: "https://www.changan.com.cn",
+  wikipedia: "https://en.wikipedia.org/wiki/Changan_Automobile",
   socialMedia: {
     twitter: null,
     facebook: "https://www.facebook.com/ChanganAutoGlobal",

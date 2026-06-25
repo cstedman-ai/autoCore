@@ -5,6 +5,7 @@ export const pontiac: Manufacturer = {
   yearFounded: 1926,
   countryOfOrigin: "United States",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Pontiac",
   socialMedia: {
     twitter: null,
     facebook: null,

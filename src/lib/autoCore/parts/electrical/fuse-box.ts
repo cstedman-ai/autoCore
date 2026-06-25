@@ -5,6 +5,7 @@ export const fuseBox: Part = {
   category: "Electrical",
   description: "A panel of fuses and relays.",
   use: "Protects circuits and distributes power to electrical systems.",
+  wikipedia: "https://en.wikipedia.org/wiki/Fuse_(automotive)",
   connectsTo: ["Wiring Harness", "Relay", "Battery (12V)"],
   connectedFrom: ["Battery (12V)"],
   averageCostUsd: 120,

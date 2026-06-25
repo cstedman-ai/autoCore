@@ -5,6 +5,7 @@ export const lincoln: Manufacturer = {
   yearFounded: 1917,
   countryOfOrigin: "United States",
   website: "https://www.lincoln.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Lincoln_Motor_Company",
   socialMedia: {
     twitter: "https://twitter.com/LincolnMotorCo",
     facebook: "https://www.facebook.com/lincoln",

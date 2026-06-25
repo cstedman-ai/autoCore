@@ -5,6 +5,7 @@ export const ora: Manufacturer = {
   yearFounded: 2018,
   countryOfOrigin: "China",
   website: "https://www.oraev.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Ora_(marque)",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Great Wall Motors"],
   subsidiaries: [],

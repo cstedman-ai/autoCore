@@ -5,6 +5,7 @@ export const jetta: Manufacturer = {
   yearFounded: 2019,
   countryOfOrigin: "China",
   website: "https://www.vw-jetta.com.cn",
+  wikipedia: "https://en.wikipedia.org/wiki/Jetta_(marque)",
   socialMedia: {
     twitter: null,
     facebook: null,

@@ -5,6 +5,7 @@ export const toyota: Manufacturer = {
   yearFounded: 1937,
   countryOfOrigin: "Japan",
   website: "https://www.toyota.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Toyota",
   socialMedia: {
     twitter: "https://twitter.com/Toyota",
     facebook: "https://www.facebook.com/toyota",

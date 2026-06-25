@@ -5,6 +5,7 @@ export const dcDcConverter: Part = {
   category: "Electric Vehicle",
   description: "A converter stepping HV down to 12V.",
   use: "Powers the 12V system and accessories from the high-voltage battery.",
+  wikipedia: "https://en.wikipedia.org/wiki/DC-to-DC_converter",
   connectsTo: ["High-Voltage Battery Pack", "Battery (12V)"],
   connectedFrom: ["High-Voltage Battery Pack"],
   averageCostUsd: 800,

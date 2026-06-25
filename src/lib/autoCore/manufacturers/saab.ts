@@ -5,6 +5,7 @@ export const saab: Manufacturer = {
   yearFounded: 1945,
   countryOfOrigin: "Sweden",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Saab_Automobile",
   socialMedia: {
     twitter: null,
     facebook: null,

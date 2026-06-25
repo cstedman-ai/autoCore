@@ -5,6 +5,7 @@ export const eicher: Manufacturer = {
   yearFounded: 1948,
   countryOfOrigin: "India",
   website: "https://www.eicher.in",
+  wikipedia: "https://en.wikipedia.org/wiki/Eicher_Motors",
   socialMedia: {
     twitter: "https://twitter.com/EicherTrucksBus",
     facebook: "https://www.facebook.com/EicherTrucksAndBuses",

@@ -5,6 +5,7 @@ export const rover: Manufacturer = {
   yearFounded: 1878,
   countryOfOrigin: "United Kingdom",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Rover_Company",
   socialMedia: {
     twitter: null,
     facebook: null,

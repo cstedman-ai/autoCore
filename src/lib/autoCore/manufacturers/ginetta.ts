@@ -5,6 +5,7 @@ export const ginetta: Manufacturer = {
   yearFounded: 1958,
   countryOfOrigin: "United Kingdom",
   website: "https://www.ginetta.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Ginetta_Cars",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Bob Walklett", "Ivor Walklett", "Trevers Walklett", "Douglas Walklett"],
   subsidiaries: [],

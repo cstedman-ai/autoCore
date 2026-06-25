@@ -5,6 +5,7 @@ export const leapmotor: Manufacturer = {
   yearFounded: 2015,
   countryOfOrigin: "China",
   website: "https://www.leapmotor.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Leapmotor",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Zhu Jiangming"],
   subsidiaries: [],

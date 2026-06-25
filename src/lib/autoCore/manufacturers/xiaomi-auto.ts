@@ -5,6 +5,7 @@ export const xiaomiAuto: Manufacturer = {
   yearFounded: 2021,
   countryOfOrigin: "China",
   website: "https://www.mi.com/ev",
+  wikipedia: "https://en.wikipedia.org/wiki/Xiaomi_Auto",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Xiaomi Corporation", "Lei Jun"],
   subsidiaries: [],

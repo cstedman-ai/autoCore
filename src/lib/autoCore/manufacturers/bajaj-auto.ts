@@ -5,6 +5,7 @@ export const bajajAuto: Manufacturer = {
   yearFounded: 1945,
   countryOfOrigin: "India",
   website: "https://www.bajajauto.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Bajaj_Auto",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Jamnalal Bajaj"],
   subsidiaries: ["Chetak Technology"],

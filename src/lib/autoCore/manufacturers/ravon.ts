@@ -5,6 +5,7 @@ export const ravon: Manufacturer = {
   yearFounded: 2015,
   countryOfOrigin: "Uzbekistan",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Ravon",
   socialMedia: {
     twitter: null,
     facebook: null,

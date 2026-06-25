@@ -5,6 +5,7 @@ export const windshield: Part = {
   category: "Body & Exterior",
   description: "A laminated front glass panel.",
   use: "Protects occupants from wind/debris and supports structural rigidity.",
+  wikipedia: "https://en.wikipedia.org/wiki/Windshield",
   connectsTo: ["Chassis", "Windshield Wiper Motor"],
   connectedFrom: ["Chassis"],
   averageCostUsd: 300,

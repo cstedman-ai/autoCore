@@ -5,6 +5,7 @@ export const gac: Manufacturer = {
   yearFounded: 2008,
   countryOfOrigin: "China",
   website: "https://www.gacmotor.com",
+  wikipedia: "https://en.wikipedia.org/wiki/GAC_Group",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["GAC Group"],
   subsidiaries: ["Trumpchi", "Aion", "Hyptec"],

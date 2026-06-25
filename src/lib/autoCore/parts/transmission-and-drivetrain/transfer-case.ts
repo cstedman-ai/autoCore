@@ -5,6 +5,7 @@ export const transferCase: Part = {
   category: "Transmission & Drivetrain",
   description: "A gearbox splitting drive to front and rear axles.",
   use: "Distributes power to multiple axles in 4WD/AWD vehicles.",
+  wikipedia: "https://en.wikipedia.org/wiki/Transfer_case",
   connectsTo: ["Transmission", "Driveshaft", "Differential"],
   connectedFrom: ["Transmission"],
   averageCostUsd: 1200,

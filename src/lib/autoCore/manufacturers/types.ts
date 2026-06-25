@@ -36,6 +36,8 @@ export type Manufacturer = {
   countryOfOrigin: string;
   /** Primary corporate/brand website, or null if none. */
   website: string | null;
+  /** Wikipedia article URL, or null. */
+  wikipedia: string | null;
   socialMedia: SocialMedia;
   /** Founder(s) of the company/brand. */
   founders: string[];

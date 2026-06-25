@@ -5,6 +5,7 @@ export const alternator: Part = {
   category: "Electrical",
   description: "A belt-driven generator.",
   use: "Charges the battery and powers the electrical system while running.",
+  wikipedia: "https://en.wikipedia.org/wiki/Alternator",
   connectsTo: ["Battery (12V)", "Serpentine Belt", "Voltage Regulator"],
   connectedFrom: ["Serpentine Belt"],
   averageCostUsd: 200,

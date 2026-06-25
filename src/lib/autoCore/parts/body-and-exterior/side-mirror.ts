@@ -5,6 +5,7 @@ export const sideMirror: Part = {
   category: "Body & Exterior",
   description: "An exterior rear-view mirror.",
   use: "Provides rearward visibility along the sides of the vehicle.",
+  wikipedia: "https://en.wikipedia.org/wiki/Wing_mirror",
   connectsTo: ["Door", "Body Control Module"],
   connectedFrom: ["Door"],
   averageCostUsd: 120,

@@ -5,6 +5,7 @@ export const wheelRim: Part = {
   category: "Wheels & Tires",
   description: "A steel or alloy wheel.",
   use: "Mounts the tire and bolts to the wheel hub.",
+  wikipedia: "https://en.wikipedia.org/wiki/Rim_(wheel)",
   connectsTo: ["Tire", "Wheel Hub", "Lug Nut"],
   connectedFrom: ["Wheel Hub"],
   averageCostUsd: 200,

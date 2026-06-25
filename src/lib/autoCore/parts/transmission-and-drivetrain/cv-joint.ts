@@ -5,6 +5,7 @@ export const cvJoint: Part = {
   category: "Transmission & Drivetrain",
   description: "A constant-velocity joint on the axle ends.",
   use: "Allows the axle to transmit torque at a varying angle smoothly.",
+  wikipedia: "https://en.wikipedia.org/wiki/Constant-velocity_joint",
   connectsTo: ["CV Axle", "Wheel Hub"],
   connectedFrom: ["CV Axle"],
   averageCostUsd: 80,

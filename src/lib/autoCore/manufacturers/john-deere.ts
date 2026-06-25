@@ -5,6 +5,7 @@ export const johnDeere: Manufacturer = {
   yearFounded: 1837,
   countryOfOrigin: "United States",
   website: "https://www.deere.com",
+  wikipedia: "https://en.wikipedia.org/wiki/John_Deere",
   socialMedia: {
     twitter: "https://twitter.com/JohnDeere",
     facebook: "https://www.facebook.com/JohnDeere",

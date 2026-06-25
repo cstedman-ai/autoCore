@@ -5,6 +5,7 @@ export const iCar: Manufacturer = {
   yearFounded: 2023,
   countryOfOrigin: "China",
   website: "https://www.icarglobal.com",
+  wikipedia: "https://en.wikipedia.org/wiki/iCar",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Chery Holding Group"],
   subsidiaries: [],

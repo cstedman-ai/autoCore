@@ -5,6 +5,7 @@ export const polaris: Manufacturer = {
   yearFounded: 1954,
   countryOfOrigin: "United States",
   website: "https://www.polaris.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Polaris_Inc.",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Edgar Hetteen", "Allan Hetteen", "David Johnson"],
   subsidiaries: ["Indian Motorcycle", "Slingshot"],

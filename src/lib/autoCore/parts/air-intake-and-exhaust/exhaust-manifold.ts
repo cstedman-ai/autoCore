@@ -5,6 +5,7 @@ export const exhaustManifold: Part = {
   category: "Air Intake & Exhaust",
   description: "A casting collecting exhaust from the cylinders.",
   use: "Channels exhaust gases from the cylinder head into the exhaust system.",
+  wikipedia: "https://en.wikipedia.org/wiki/Exhaust_manifold",
   connectsTo: ["Cylinder Head", "Catalytic Converter", "Turbocharger"],
   connectedFrom: ["Cylinder Head"],
   averageCostUsd: 250,

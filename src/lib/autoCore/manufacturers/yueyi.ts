@@ -5,6 +5,7 @@ export const yueyi: Manufacturer = {
   yearFounded: 2024,
   countryOfOrigin: "China",
   website: "https://www.faw.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Yueyi",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["FAW Group"],
   subsidiaries: [],

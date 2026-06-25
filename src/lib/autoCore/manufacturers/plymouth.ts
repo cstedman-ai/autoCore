@@ -5,6 +5,7 @@ export const plymouth: Manufacturer = {
   yearFounded: 1928,
   countryOfOrigin: "United States",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Plymouth_(automobile)",
   socialMedia: {
     twitter: null,
     facebook: null,

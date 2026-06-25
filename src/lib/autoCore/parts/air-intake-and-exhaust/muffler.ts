@@ -5,6 +5,7 @@ export const muffler: Part = {
   category: "Air Intake & Exhaust",
   description: "A chambered or packed silencer in the exhaust.",
   use: "Reduces engine and exhaust noise before gases exit the tailpipe.",
+  wikipedia: "https://en.wikipedia.org/wiki/Muffler",
   connectsTo: ["Catalytic Converter", "Exhaust Pipe"],
   connectedFrom: ["Catalytic Converter"],
   averageCostUsd: 120,

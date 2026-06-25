@@ -5,6 +5,7 @@ export const packard: Manufacturer = {
   yearFounded: 1899,
   countryOfOrigin: "United States",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Packard",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["James Ward Packard", "William Doud Packard", "George Lewis Weiss"],
   subsidiaries: [],

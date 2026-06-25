@@ -5,6 +5,7 @@ export const mercury: Manufacturer = {
   yearFounded: 1938,
   countryOfOrigin: "United States",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Mercury_(automobile)",
   socialMedia: {
     twitter: null,
     facebook: null,

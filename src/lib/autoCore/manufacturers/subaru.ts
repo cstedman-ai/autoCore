@@ -5,6 +5,7 @@ export const subaru: Manufacturer = {
   yearFounded: 1953,
   countryOfOrigin: "Japan",
   website: "https://www.subaru.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Subaru",
   socialMedia: {
     twitter: "https://twitter.com/subaru_usa",
     facebook: "https://www.facebook.com/subaru",

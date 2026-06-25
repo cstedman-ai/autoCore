@@ -5,6 +5,7 @@ export const htwo: Manufacturer = {
   yearFounded: 2020,
   countryOfOrigin: "South Korea",
   website: "https://htwo.hyundai.com",
+  wikipedia: "https://en.wikipedia.org/wiki/HTWO",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Hyundai Motor Group"],
   subsidiaries: [],

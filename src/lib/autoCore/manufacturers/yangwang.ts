@@ -5,6 +5,7 @@ export const yangwang: Manufacturer = {
   yearFounded: 2023,
   countryOfOrigin: "China",
   website: "https://www.yangwangauto.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Yangwang",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["BYD Company Ltd."],
   subsidiaries: [],

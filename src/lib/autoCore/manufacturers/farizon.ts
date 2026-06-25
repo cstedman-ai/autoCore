@@ -5,6 +5,7 @@ export const farizon: Manufacturer = {
   yearFounded: 2016,
   countryOfOrigin: "China",
   website: "https://www.farizonauto.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Farizon_Auto",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Geely"],
   subsidiaries: [],

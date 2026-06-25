@@ -5,6 +5,7 @@ export const egrValve: Part = {
   category: "Air Intake & Exhaust",
   description: "An exhaust-gas-recirculation valve.",
   use: "Recirculates some exhaust into the intake to lower combustion temps and NOx.",
+  wikipedia: "https://en.wikipedia.org/wiki/Exhaust_gas_recirculation",
   connectsTo: ["Intake Manifold", "Exhaust Manifold", "Engine Control Unit (ECU)"],
   connectedFrom: ["Engine Control Unit (ECU)"],
   averageCostUsd: 150,

@@ -5,6 +5,7 @@ export const roewe: Manufacturer = {
   yearFounded: 2006,
   countryOfOrigin: "China",
   website: "https://www.roewe.com.cn",
+  wikipedia: "https://en.wikipedia.org/wiki/Roewe",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["SAIC Motor"],
   subsidiaries: [],

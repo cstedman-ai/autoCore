@@ -5,6 +5,7 @@ export const omoda: Manufacturer = {
   yearFounded: 2022,
   countryOfOrigin: "China",
   website: "https://www.omodajaecoo.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Omoda",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Chery Holding Group"],
   subsidiaries: [],

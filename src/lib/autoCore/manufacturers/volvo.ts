@@ -5,6 +5,7 @@ export const volvo: Manufacturer = {
   yearFounded: 1927,
   countryOfOrigin: "Sweden",
   website: "https://www.volvocars.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Volvo_Cars",
   socialMedia: {
     twitter: "https://twitter.com/volvocars",
     facebook: "https://www.facebook.com/volvocars",

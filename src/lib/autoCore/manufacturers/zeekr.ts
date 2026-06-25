@@ -5,6 +5,7 @@ export const zeekr: Manufacturer = {
   yearFounded: 2021,
   countryOfOrigin: "China",
   website: "https://www.zeekr.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Zeekr",
   socialMedia: {
     twitter: "https://twitter.com/ZeekrGlobal",
     facebook: "https://www.facebook.com/ZeekrGlobal",

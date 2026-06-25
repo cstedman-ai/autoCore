@@ -5,6 +5,7 @@ export const skoda: Manufacturer = {
   yearFounded: 1895,
   countryOfOrigin: "Czech Republic",
   website: "https://www.skoda-auto.com",
+  wikipedia: "https://en.wikipedia.org/wiki/%C5%A0koda_Auto",
   socialMedia: {
     twitter: "https://twitter.com/skodaautonews",
     facebook: "https://www.facebook.com/skoda",

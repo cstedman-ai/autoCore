@@ -5,6 +5,7 @@ export const isuzu: Manufacturer = {
   yearFounded: 1916,
   countryOfOrigin: "Japan",
   website: "https://www.isuzu.co.jp/world",
+  wikipedia: "https://en.wikipedia.org/wiki/Isuzu",
   socialMedia: {
     twitter: null,
     facebook: "https://www.facebook.com/isuzu",

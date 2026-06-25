@@ -5,6 +5,7 @@ export const caterham: Manufacturer = {
   yearFounded: 1973,
   countryOfOrigin: "United Kingdom",
   website: "https://www.caterhamcars.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Caterham",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Graham Nearn"],
   subsidiaries: [],

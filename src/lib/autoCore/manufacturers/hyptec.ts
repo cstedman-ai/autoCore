@@ -5,6 +5,7 @@ export const hyptec: Manufacturer = {
   yearFounded: 2023,
   countryOfOrigin: "China",
   website: "https://www.gac-aion.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Hyptec",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["GAC Aion"],
   subsidiaries: [],

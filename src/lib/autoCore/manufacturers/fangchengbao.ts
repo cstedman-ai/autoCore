@@ -5,6 +5,7 @@ export const fangchengbao: Manufacturer = {
   yearFounded: 2023,
   countryOfOrigin: "China",
   website: "https://www.fangchengbao.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Fangchengbao",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["BYD Company Ltd."],
   subsidiaries: [],

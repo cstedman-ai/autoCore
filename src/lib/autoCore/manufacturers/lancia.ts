@@ -5,6 +5,7 @@ export const lancia: Manufacturer = {
   yearFounded: 1906,
   countryOfOrigin: "Italy",
   website: "https://www.lancia.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Lancia",
   socialMedia: {
     twitter: null,
     facebook: "https://www.facebook.com/lancia",

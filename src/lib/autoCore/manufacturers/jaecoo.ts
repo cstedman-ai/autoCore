@@ -5,6 +5,7 @@ export const jaecoo: Manufacturer = {
   yearFounded: 2023,
   countryOfOrigin: "China",
   website: "https://www.jaecoo.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Jaecoo",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Chery Holding Group"],
   subsidiaries: [],

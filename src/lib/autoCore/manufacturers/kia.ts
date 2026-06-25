@@ -5,6 +5,7 @@ export const kia: Manufacturer = {
   yearFounded: 1944,
   countryOfOrigin: "South Korea",
   website: "https://www.kia.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Kia",
   socialMedia: {
     twitter: "https://twitter.com/Kia",
     facebook: "https://www.facebook.com/kia",

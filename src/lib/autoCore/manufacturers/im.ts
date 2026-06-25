@@ -5,6 +5,7 @@ export const im: Manufacturer = {
   yearFounded: 2020,
   countryOfOrigin: "China",
   website: "https://www.immotors.com",
+  wikipedia: "https://en.wikipedia.org/wiki/IM_Motors",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["SAIC Motor", "Alibaba Group", "Zhangjiang Hi-Tech"],
   subsidiaries: [],

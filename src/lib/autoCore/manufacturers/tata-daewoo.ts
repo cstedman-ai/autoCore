@@ -5,6 +5,7 @@ export const tataDaewoo: Manufacturer = {
   yearFounded: 2002,
   countryOfOrigin: "South Korea",
   website: "https://www.tata-daewoo.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Tata_Daewoo_Commercial_Vehicle",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Daewoo Motors"],
   subsidiaries: [],

@@ -5,6 +5,7 @@ export const oilPump: Part = {
   category: "Engine",
   description: "A gear or rotor pump driven by the engine.",
   use: "Circulates pressurized oil through the engine to lubricate moving parts.",
+  wikipedia: "https://en.wikipedia.org/wiki/Oil_pump_(internal_combustion_engine)",
   connectsTo: ["Oil Pan", "Oil Filter", "Crankshaft"],
   connectedFrom: ["Oil Pan"],
   averageCostUsd: 130,

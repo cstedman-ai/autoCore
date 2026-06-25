@@ -5,6 +5,7 @@ export const setra: Manufacturer = {
   yearFounded: 1951,
   countryOfOrigin: "Germany",
   website: "https://www.setra.de",
+  wikipedia: "https://en.wikipedia.org/wiki/Setra",
   socialMedia: {
     twitter: null,
     facebook: "https://www.facebook.com/Setra",

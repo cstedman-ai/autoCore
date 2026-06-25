@@ -5,6 +5,7 @@ export const schmitz: Manufacturer = {
   yearFounded: 1892,
   countryOfOrigin: "Germany",
   website: "https://www.cargobull.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Schmitz_Cargobull",
   socialMedia: {
     twitter: "https://twitter.com/SchmitzCargo",
     facebook: "https://www.facebook.com/SchmitzCargobull",

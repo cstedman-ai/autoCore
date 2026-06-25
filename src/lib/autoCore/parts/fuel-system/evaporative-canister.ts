@@ -5,6 +5,7 @@ export const evaporativeCanister: Part = {
   category: "Fuel System",
   description: "A charcoal-filled canister (EVAP adsorber).",
   use: "Captures fuel vapor from the tank and routes it to be burned.",
+  wikipedia: null,
   connectsTo: ["Fuel Tank", "Intake Manifold"],
   connectedFrom: ["Fuel Tank"],
   averageCostUsd: 150,

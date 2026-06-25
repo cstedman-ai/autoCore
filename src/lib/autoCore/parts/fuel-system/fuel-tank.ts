@@ -5,6 +5,7 @@ export const fuelTank: Part = {
   category: "Fuel System",
   description: "A sealed reservoir storing liquid fuel.",
   use: "Holds gasoline or diesel and feeds it to the fuel pump.",
+  wikipedia: "https://en.wikipedia.org/wiki/Fuel_tank",
   connectsTo: ["Fuel Pump", "Fuel Filler Neck", "Evaporative Canister"],
   connectedFrom: ["Fuel Filler Neck"],
   averageCostUsd: 300,

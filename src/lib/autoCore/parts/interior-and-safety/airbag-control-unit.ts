@@ -5,6 +5,7 @@ export const airbagControlUnit: Part = {
   category: "Interior & Safety",
   description: "A crash-sensing control module.",
   use: "Detects impacts and triggers airbags and belt pretensioners.",
+  wikipedia: "https://en.wikipedia.org/wiki/Airbag",
   connectsTo: ["Airbag", "Seatbelt", "Wiring Harness"],
   connectedFrom: ["Wiring Harness"],
   averageCostUsd: 300,

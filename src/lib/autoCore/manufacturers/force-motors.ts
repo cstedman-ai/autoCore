@@ -5,6 +5,7 @@ export const forceMotors: Manufacturer = {
   yearFounded: 1958,
   countryOfOrigin: "India",
   website: "https://www.forcemotors.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Force_Motors",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["N. K. Firodia"],
   subsidiaries: [],

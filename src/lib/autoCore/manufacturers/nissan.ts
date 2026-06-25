@@ -5,6 +5,7 @@ export const nissan: Manufacturer = {
   yearFounded: 1933,
   countryOfOrigin: "Japan",
   website: "https://www.nissan-global.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Nissan",
   socialMedia: {
     twitter: "https://twitter.com/Nissan",
     facebook: "https://www.facebook.com/NissanUSA",

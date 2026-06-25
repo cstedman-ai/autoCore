@@ -5,6 +5,7 @@ export const tpmsSensor: Part = {
   category: "Wheels & Tires",
   description: "A tire-pressure monitoring sensor.",
   use: "Measures tire pressure and reports it to the body control module.",
+  wikipedia: "https://en.wikipedia.org/wiki/Tire-pressure_monitoring_system",
   connectsTo: ["Valve Stem", "Body Control Module"],
   connectedFrom: ["Valve Stem"],
   averageCostUsd: 50,

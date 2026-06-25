@@ -5,6 +5,7 @@ export const aeolus: Manufacturer = {
   yearFounded: 2009,
   countryOfOrigin: "China",
   website: "https://www.dongfeng-global.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Dongfeng_Aeolus",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Dongfeng Motor Corporation"],
   subsidiaries: [],

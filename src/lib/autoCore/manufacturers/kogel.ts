@@ -5,6 +5,7 @@ export const kogel: Manufacturer = {
   yearFounded: 1934,
   countryOfOrigin: "Germany",
   website: "https://www.koegel.com",
+  wikipedia: "https://en.wikipedia.org/wiki/K%C3%B6gel",
   socialMedia: {
     twitter: null,
     facebook: "https://www.facebook.com/KoegelTrailer",

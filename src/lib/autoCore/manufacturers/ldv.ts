@@ -5,6 +5,7 @@ export const ldv: Manufacturer = {
   yearFounded: 1993,
   countryOfOrigin: "United Kingdom",
   website: "https://www.ldvautomotive.com",
+  wikipedia: "https://en.wikipedia.org/wiki/LDV_Group",
   socialMedia: {
     twitter: null,
     facebook: "https://www.facebook.com/LDVAutomotive",

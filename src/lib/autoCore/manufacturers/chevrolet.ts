@@ -5,6 +5,7 @@ export const chevrolet: Manufacturer = {
   yearFounded: 1911,
   countryOfOrigin: "United States",
   website: "https://www.chevrolet.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Chevrolet",
   socialMedia: {
     twitter: "https://twitter.com/chevrolet",
     facebook: "https://www.facebook.com/chevrolet",

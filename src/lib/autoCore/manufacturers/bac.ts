@@ -5,6 +5,7 @@ export const bac: Manufacturer = {
   yearFounded: 2009,
   countryOfOrigin: "United Kingdom",
   website: "https://www.bac-mono.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Briggs_Automotive_Company",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Neill Briggs", "Ian Briggs"],
   subsidiaries: [],

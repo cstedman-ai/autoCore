@@ -5,6 +5,7 @@ export const manualTransmission: Part = {
   category: "Transmission & Drivetrain",
   description: "A gearbox with driver-selected gears.",
   use: "Provides selectable gear ratios between engine and driveshaft.",
+  wikipedia: "https://en.wikipedia.org/wiki/Manual_transmission",
   connectsTo: ["Clutch", "Driveshaft", "Gear Selector"],
   connectedFrom: ["Clutch"],
   averageCostUsd: 1800,

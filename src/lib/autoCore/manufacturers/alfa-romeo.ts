@@ -5,6 +5,7 @@ export const alfaRomeo: Manufacturer = {
   yearFounded: 1910,
   countryOfOrigin: "Italy",
   website: "https://www.alfaromeo.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Alfa_Romeo",
   socialMedia: {
     twitter: "https://twitter.com/alfa_romeo",
     facebook: "https://www.facebook.com/alfaromeo",

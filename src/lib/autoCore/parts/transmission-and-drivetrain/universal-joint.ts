@@ -5,6 +5,7 @@ export const universalJoint: Part = {
   category: "Transmission & Drivetrain",
   description: "A cross-and-bearing joint in the driveshaft.",
   use: "Allows the driveshaft to transmit torque through angular movement.",
+  wikipedia: "https://en.wikipedia.org/wiki/Universal_joint",
   connectsTo: ["Driveshaft"],
   connectedFrom: ["Driveshaft"],
   averageCostUsd: 30,

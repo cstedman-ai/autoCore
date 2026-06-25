@@ -5,6 +5,7 @@ export const mg: Manufacturer = {
   yearFounded: 1924,
   countryOfOrigin: "United Kingdom",
   website: "https://www.mgmotor.com",
+  wikipedia: "https://en.wikipedia.org/wiki/MG_Motor",
   socialMedia: {
     twitter: "https://twitter.com/MG_Motor",
     facebook: "https://www.facebook.com/MGMotor",

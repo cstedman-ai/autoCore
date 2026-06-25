@@ -5,6 +5,7 @@ export const dodge: Manufacturer = {
   yearFounded: 1900,
   countryOfOrigin: "United States",
   website: "https://www.dodge.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Dodge",
   socialMedia: {
     twitter: "https://twitter.com/Dodge",
     facebook: "https://www.facebook.com/dodge",

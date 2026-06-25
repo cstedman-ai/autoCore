@@ -5,6 +5,7 @@ export const samsungMotors: Manufacturer = {
   yearFounded: 1994,
   countryOfOrigin: "South Korea",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Renault_Samsung_Motors",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Samsung Group"],
   subsidiaries: [],

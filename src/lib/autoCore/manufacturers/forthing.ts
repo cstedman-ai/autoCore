@@ -5,6 +5,7 @@ export const forthing: Manufacturer = {
   yearFounded: 2001,
   countryOfOrigin: "China",
   website: "https://www.forthingmotor.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Forthing",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Dongfeng Liuzhou Motor"],
   subsidiaries: [],

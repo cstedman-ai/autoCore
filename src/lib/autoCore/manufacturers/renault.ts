@@ -5,6 +5,7 @@ export const renault: Manufacturer = {
   yearFounded: 1899,
   countryOfOrigin: "France",
   website: "https://www.renault.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Renault",
   socialMedia: {
     twitter: "https://twitter.com/renault",
     facebook: "https://www.facebook.com/renault",

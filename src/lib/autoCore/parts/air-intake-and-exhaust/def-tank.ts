@@ -5,6 +5,7 @@ export const defTank: Part = {
   category: "Air Intake & Exhaust",
   description: "A reservoir for diesel exhaust fluid (AdBlue).",
   use: "Stores urea solution injected into exhaust to reduce NOx (SCR system).",
+  wikipedia: "https://en.wikipedia.org/wiki/Diesel_exhaust_fluid",
   connectsTo: ["DEF Injector", "Exhaust Pipe"],
   connectedFrom: [],
   averageCostUsd: 300,

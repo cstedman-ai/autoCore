@@ -5,6 +5,7 @@ export const hanomag: Manufacturer = {
   yearFounded: 1835,
   countryOfOrigin: "Germany",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Hanomag",
   socialMedia: {
     twitter: null,
     facebook: null,

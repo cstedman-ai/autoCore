@@ -5,6 +5,7 @@ export const trumpchi: Manufacturer = {
   yearFounded: 2010,
   countryOfOrigin: "China",
   website: "https://www.gacmotor.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Trumpchi",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["GAC Group"],
   subsidiaries: [],

@@ -5,6 +5,7 @@ export const ashokLeyland: Manufacturer = {
   yearFounded: 1948,
   countryOfOrigin: "India",
   website: "https://www.ashokleyland.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Ashok_Leyland",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Raghunandan Saran"],
   subsidiaries: ["Switch Mobility", "Optare"],

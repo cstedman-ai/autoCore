@@ -5,6 +5,7 @@ export const exeed: Manufacturer = {
   yearFounded: 2017,
   countryOfOrigin: "China",
   website: "https://www.exeedcars.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Exeed",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Chery Holding Group"],
   subsidiaries: [],

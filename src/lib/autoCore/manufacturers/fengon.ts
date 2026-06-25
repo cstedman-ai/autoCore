@@ -5,6 +5,7 @@ export const fengon: Manufacturer = {
   yearFounded: 2013,
   countryOfOrigin: "China",
   website: "https://www.dfsk.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Fengon",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Dongfeng Sokon"],
   subsidiaries: [],

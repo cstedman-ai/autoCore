@@ -5,6 +5,7 @@ export const jacYiwei: Manufacturer = {
   yearFounded: 2023,
   countryOfOrigin: "China",
   website: "https://www.jac.com.cn",
+  wikipedia: "https://en.wikipedia.org/wiki/JAC_Yiwei",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["JAC Group"],
   subsidiaries: [],

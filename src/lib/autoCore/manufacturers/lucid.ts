@@ -5,6 +5,7 @@ export const lucid: Manufacturer = {
   yearFounded: 2007,
   countryOfOrigin: "United States",
   website: "https://lucidmotors.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Lucid_Motors",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Bernard Tse", "Sam Weng"],
   subsidiaries: [],

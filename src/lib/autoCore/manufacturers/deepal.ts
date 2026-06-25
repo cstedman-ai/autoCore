@@ -5,6 +5,7 @@ export const deepal: Manufacturer = {
   yearFounded: 2022,
   countryOfOrigin: "China",
   website: "https://www.deepal.com.cn",
+  wikipedia: "https://en.wikipedia.org/wiki/Deepal",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Changan Automobile"],
   subsidiaries: [],

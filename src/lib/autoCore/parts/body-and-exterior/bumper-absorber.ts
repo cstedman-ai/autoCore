@@ -5,6 +5,7 @@ export const bumperAbsorber: Part = {
   category: "Body & Exterior",
   description: "Foam or honeycomb behind the bumper cover.",
   use: "Absorbs and spreads impact energy in a collision.",
+  wikipedia: null,
   connectsTo: ["Bumper"],
   connectedFrom: ["Bumper"],
   averageCostUsd: 60,

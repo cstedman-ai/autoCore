@@ -5,6 +5,7 @@ export const valveStem: Part = {
   category: "Wheels & Tires",
   description: "A valve for inflating the tire.",
   use: "Allows the tire to be inflated and seals in the air.",
+  wikipedia: "https://en.wikipedia.org/wiki/Valve_stem",
   connectsTo: ["Tire", "TPMS Sensor"],
   connectedFrom: ["Tire"],
   averageCostUsd: 5,

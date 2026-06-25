@@ -5,6 +5,7 @@ export const dongfeng: Manufacturer = {
   yearFounded: 1969,
   countryOfOrigin: "China",
   website: "https://www.dfmc.com.cn",
+  wikipedia: "https://en.wikipedia.org/wiki/Dongfeng_Motor_Corporation",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Government of China"],
   subsidiaries: ["Aeolus", "Forthing", "M-Hero", "Voyah", "Dongfeng Nammi"],

@@ -5,6 +5,7 @@ export const seres: Manufacturer = {
   yearFounded: 1986,
   countryOfOrigin: "China",
   website: "https://www.seres.cn",
+  wikipedia: "https://en.wikipedia.org/wiki/Seres_Group",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Zhang Xinghai"],
   subsidiaries: ["AITO", "DFSK", "Fengon"],

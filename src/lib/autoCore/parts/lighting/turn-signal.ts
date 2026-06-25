@@ -5,6 +5,7 @@ export const turnSignal: Part = {
   category: "Lighting",
   description: "A flashing directional indicator.",
   use: "Signals the driver's intent to turn or change lanes.",
+  wikipedia: "https://en.wikipedia.org/wiki/Turn_signal",
   connectsTo: ["Body Control Module", "Wiring Harness"],
   connectedFrom: ["Body Control Module"],
   averageCostUsd: 30,

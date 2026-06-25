@@ -5,6 +5,7 @@ export const baojun: Manufacturer = {
   yearFounded: 2010,
   countryOfOrigin: "China",
   website: "https://www.sgmw.com.cn",
+  wikipedia: "https://en.wikipedia.org/wiki/Baojun",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["SAIC-GM-Wuling"],
   subsidiaries: [],

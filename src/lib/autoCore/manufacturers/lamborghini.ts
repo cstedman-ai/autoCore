@@ -5,6 +5,7 @@ export const lamborghini: Manufacturer = {
   yearFounded: 1963,
   countryOfOrigin: "Italy",
   website: "https://www.lamborghini.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Lamborghini",
   socialMedia: {
     twitter: "https://twitter.com/Lamborghini",
     facebook: "https://www.facebook.com/Lamborghini",

@@ -5,6 +5,7 @@ export const noble: Manufacturer = {
   yearFounded: 1999,
   countryOfOrigin: "United Kingdom",
   website: "https://www.noblecars.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Noble_Automotive",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Lee Noble"],
   subsidiaries: [],

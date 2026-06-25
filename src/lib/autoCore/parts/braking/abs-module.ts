@@ -5,6 +5,7 @@ export const absModule: Part = {
   category: "Braking",
   description: "The anti-lock braking control and pump unit.",
   use: "Modulates brake pressure to prevent wheel lockup during hard braking.",
+  wikipedia: "https://en.wikipedia.org/wiki/Anti-lock_braking_system",
   connectsTo: ["Brake Line", "Wheel Speed Sensor", "Body Control Module"],
   connectedFrom: ["Wheel Speed Sensor"],
   averageCostUsd: 500,

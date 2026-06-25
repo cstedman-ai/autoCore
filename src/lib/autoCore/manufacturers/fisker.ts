@@ -5,6 +5,7 @@ export const fisker: Manufacturer = {
   yearFounded: 2016,
   countryOfOrigin: "United States",
   website: "https://www.fiskerinc.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Fisker_Inc.",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Henrik Fisker", "Geeta Gupta-Fisker"],
   subsidiaries: [],

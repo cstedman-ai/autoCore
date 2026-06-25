@@ -5,6 +5,7 @@ export const steeringColumn: Part = {
   category: "Steering",
   description: "The shaft linking the steering wheel to the rack.",
   use: "Transfers driver input from the wheel to the steering gear.",
+  wikipedia: "https://en.wikipedia.org/wiki/Steering_column",
   connectsTo: ["Steering Wheel", "Steering Rack"],
   connectedFrom: ["Steering Wheel"],
   averageCostUsd: 250,

@@ -5,6 +5,7 @@ export const smart: Manufacturer = {
   yearFounded: 1994,
   countryOfOrigin: "Germany",
   website: "https://www.smart.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Smart_(marque)",
   socialMedia: {
     twitter: "https://twitter.com/smartcar",
     facebook: "https://www.facebook.com/smart",

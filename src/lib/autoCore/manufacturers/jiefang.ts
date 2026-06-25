@@ -5,6 +5,7 @@ export const jiefang: Manufacturer = {
   yearFounded: 1957,
   countryOfOrigin: "China",
   website: "https://www.fawjiefang.com.cn",
+  wikipedia: "https://en.wikipedia.org/wiki/FAW_Jiefang",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["FAW Group"],
   subsidiaries: [],

@@ -5,6 +5,7 @@ export const buick: Manufacturer = {
   yearFounded: 1903,
   countryOfOrigin: "United States",
   website: "https://www.buick.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Buick",
   socialMedia: {
     twitter: "https://twitter.com/buick",
     facebook: "https://www.facebook.com/buick",

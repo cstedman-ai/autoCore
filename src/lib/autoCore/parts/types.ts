@@ -44,6 +44,8 @@ export type Part = {
   description: string;
   /** What the part does / its function. */
   use: string;
+  /** Wikipedia article URL, or null. */
+  wikipedia: string | null;
   /** Parts/systems this part connects to (outgoing connections). */
   connectsTo: string[];
   /** Parts/systems that connect into this part (incoming connections). */

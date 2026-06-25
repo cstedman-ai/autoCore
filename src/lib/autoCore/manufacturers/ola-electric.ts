@@ -5,6 +5,7 @@ export const olaElectric: Manufacturer = {
   yearFounded: 2017,
   countryOfOrigin: "India",
   website: "https://www.olaelectric.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Ola_Electric",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Bhavish Aggarwal"],
   subsidiaries: [],

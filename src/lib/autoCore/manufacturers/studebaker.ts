@@ -5,6 +5,7 @@ export const studebaker: Manufacturer = {
   yearFounded: 1852,
   countryOfOrigin: "United States",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Studebaker",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Henry Studebaker", "Clement Studebaker"],
   subsidiaries: [],

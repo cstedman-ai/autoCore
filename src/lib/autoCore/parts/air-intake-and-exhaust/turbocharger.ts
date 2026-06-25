@@ -5,6 +5,7 @@ export const turbocharger: Part = {
   category: "Air Intake & Exhaust",
   description: "An exhaust-driven turbine and compressor unit.",
   use: "Forces extra air into the engine to increase power and efficiency.",
+  wikipedia: "https://en.wikipedia.org/wiki/Turbocharger",
   connectsTo: ["Exhaust Manifold", "Intercooler", "Intake Manifold", "Oil Pump"],
   connectedFrom: ["Exhaust Manifold"],
   averageCostUsd: 1200,

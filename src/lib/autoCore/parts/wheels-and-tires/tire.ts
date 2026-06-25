@@ -5,6 +5,7 @@ export const tire: Part = {
   category: "Wheels & Tires",
   description: "A rubber pneumatic tire mounted on a rim.",
   use: "Provides traction, grip and cushioning between the car and road.",
+  wikipedia: "https://en.wikipedia.org/wiki/Tire",
   connectsTo: ["Wheel Rim", "Valve Stem"],
   connectedFrom: ["Wheel Rim"],
   averageCostUsd: 150,

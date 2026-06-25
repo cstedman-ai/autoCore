@@ -5,6 +5,7 @@ export const coilSpring: Part = {
   category: "Suspension",
   description: "A helical steel spring at each corner.",
   use: "Supports vehicle weight and absorbs road impacts.",
+  wikipedia: "https://en.wikipedia.org/wiki/Coil_spring",
   connectsTo: ["Shock Absorber", "Control Arm"],
   connectedFrom: ["Control Arm"],
   averageCostUsd: 90,

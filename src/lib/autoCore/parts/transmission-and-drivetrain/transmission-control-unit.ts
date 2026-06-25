@@ -5,6 +5,7 @@ export const transmissionControlUnit: Part = {
   category: "Transmission & Drivetrain",
   description: "An electronic module controlling automatic shifting.",
   use: "Decides shift points and clutch pressures based on sensor inputs.",
+  wikipedia: "https://en.wikipedia.org/wiki/Transmission_control_unit",
   connectsTo: ["Automatic Transmission", "Engine Control Unit (ECU)"],
   connectedFrom: ["Wiring Harness"],
   averageCostUsd: 400,

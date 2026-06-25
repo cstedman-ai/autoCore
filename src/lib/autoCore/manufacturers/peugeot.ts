@@ -5,6 +5,7 @@ export const peugeot: Manufacturer = {
   yearFounded: 1810,
   countryOfOrigin: "France",
   website: "https://www.peugeot.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Peugeot",
   socialMedia: {
     twitter: "https://twitter.com/Peugeot",
     facebook: "https://www.facebook.com/peugeot",

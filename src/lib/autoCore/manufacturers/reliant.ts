@@ -5,6 +5,7 @@ export const reliant: Manufacturer = {
   yearFounded: 1935,
   countryOfOrigin: "United Kingdom",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Reliant_Motor_Company",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["T. L. Williams"],
   subsidiaries: [],

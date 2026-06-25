@@ -5,6 +5,7 @@ export const baic: Manufacturer = {
   yearFounded: 1958,
   countryOfOrigin: "China",
   website: "https://www.baicgroup.com.cn",
+  wikipedia: "https://en.wikipedia.org/wiki/BAIC",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Beijing municipal government"],
   subsidiaries: ["Arcfox", "Beijing", "Beijing Off-road", "Foton"],

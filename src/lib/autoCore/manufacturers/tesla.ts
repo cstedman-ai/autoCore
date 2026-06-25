@@ -5,6 +5,7 @@ export const tesla: Manufacturer = {
   yearFounded: 2003,
   countryOfOrigin: "United States",
   website: "https://www.tesla.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Tesla,_Inc.",
   socialMedia: {
     twitter: "https://twitter.com/Tesla",
     facebook: "https://www.facebook.com/tesla",

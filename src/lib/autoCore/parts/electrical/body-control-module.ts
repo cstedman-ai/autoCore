@@ -5,6 +5,7 @@ export const bodyControlModule: Part = {
   category: "Electrical",
   description: "A central module managing body electronics.",
   use: "Controls lighting, locks, windows and other comfort/convenience systems.",
+  wikipedia: "https://en.wikipedia.org/wiki/Body_control_module",
   connectsTo: ["Wiring Harness", "Headlight", "Radiator Fan"],
   connectedFrom: ["Wiring Harness"],
   averageCostUsd: 350,

@@ -5,6 +5,7 @@ export const renaultKorea: Manufacturer = {
   yearFounded: 1994,
   countryOfOrigin: "South Korea",
   website: "https://www.renaultkoream.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Renault_Korea",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Samsung Group"],
   subsidiaries: [],

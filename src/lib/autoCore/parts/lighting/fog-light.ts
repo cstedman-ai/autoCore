@@ -5,6 +5,7 @@ export const fogLight: Part = {
   category: "Lighting",
   description: "An auxiliary low-mounted light.",
   use: "Improves visibility in fog, rain or snow.",
+  wikipedia: "https://en.wikipedia.org/wiki/Automotive_lighting",
   connectsTo: ["Body Control Module"],
   connectedFrom: ["Body Control Module"],
   averageCostUsd: 80,

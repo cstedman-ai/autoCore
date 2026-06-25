@@ -5,6 +5,7 @@ export const jensen: Manufacturer = {
   yearFounded: 1934,
   countryOfOrigin: "United Kingdom",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Jensen_Motors",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Alan Jensen", "Richard Jensen"],
   subsidiaries: [],

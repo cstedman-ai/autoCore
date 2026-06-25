@@ -5,6 +5,7 @@ export const ioniq: Manufacturer = {
   yearFounded: 2020,
   countryOfOrigin: "South Korea",
   website: "https://www.hyundai.com/worldwide/en/eco/ioniq",
+  wikipedia: "https://en.wikipedia.org/wiki/Ioniq",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Hyundai Motor Company"],
   subsidiaries: [],

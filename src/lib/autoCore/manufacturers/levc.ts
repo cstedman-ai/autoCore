@@ -5,6 +5,7 @@ export const levc: Manufacturer = {
   yearFounded: 1908,
   countryOfOrigin: "United Kingdom",
   website: "https://levc.com",
+  wikipedia: "https://en.wikipedia.org/wiki/London_EV_Company",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["London Taxi Company"],
   subsidiaries: [],

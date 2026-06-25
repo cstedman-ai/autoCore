@@ -5,6 +5,7 @@ export const geely: Manufacturer = {
   yearFounded: 1986,
   countryOfOrigin: "China",
   website: "https://global.geely.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Geely",
   socialMedia: {
     twitter: null,
     facebook: "https://www.facebook.com/GeelyAuto",

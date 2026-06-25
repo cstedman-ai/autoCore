@@ -5,6 +5,7 @@ export const peterbilt: Manufacturer = {
   yearFounded: 1939,
   countryOfOrigin: "United States",
   website: "https://www.peterbilt.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Peterbilt",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["T. A. Peterman"],
   subsidiaries: [],

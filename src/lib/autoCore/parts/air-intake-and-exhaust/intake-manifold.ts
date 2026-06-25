@@ -5,6 +5,7 @@ export const intakeManifold: Part = {
   category: "Air Intake & Exhaust",
   description: "A casting distributing air to the cylinders.",
   use: "Evenly routes intake air (and sometimes fuel) to each cylinder.",
+  wikipedia: "https://en.wikipedia.org/wiki/Inlet_manifold",
   connectsTo: ["Cylinder Head", "Throttle Body", "Fuel Injector"],
   connectedFrom: ["Throttle Body"],
   averageCostUsd: 250,

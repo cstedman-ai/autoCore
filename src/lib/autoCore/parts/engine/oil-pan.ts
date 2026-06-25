@@ -5,6 +5,7 @@ export const oilPan: Part = {
   category: "Engine",
   description: "A stamped or cast reservoir bolted to the bottom of the engine block.",
   use: "Stores and collects engine oil for the lubrication system.",
+  wikipedia: "https://en.wikipedia.org/wiki/Sump",
   connectsTo: ["Engine Block", "Oil Pump"],
   connectedFrom: ["Engine Block"],
   averageCostUsd: 120,

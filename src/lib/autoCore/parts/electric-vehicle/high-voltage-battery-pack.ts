@@ -5,6 +5,7 @@ export const highVoltageBatteryPack: Part = {
   category: "Electric Vehicle",
   description: "A large lithium-ion battery pack.",
   use: "Stores the energy that powers the electric drive motor.",
+  wikipedia: "https://en.wikipedia.org/wiki/Electric_vehicle_battery",
   connectsTo: ["Battery Management System", "Inverter", "DC-DC Converter", "Onboard Charger"],
   connectedFrom: ["Onboard Charger"],
   averageCostUsd: 12000,

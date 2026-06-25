@@ -5,6 +5,7 @@ export const mHero: Manufacturer = {
   yearFounded: 2022,
   countryOfOrigin: "China",
   website: "https://www.m-hero.com",
+  wikipedia: "https://en.wikipedia.org/wiki/M-Hero",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Dongfeng Motor Corporation"],
   subsidiaries: [],

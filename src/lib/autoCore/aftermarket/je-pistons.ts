@@ -1,0 +1,20 @@
+import type { AftermarketManufacturer } from "./types";
+
+export const jePistons: AftermarketManufacturer = {
+  name: "JE Pistons",
+  address: "Huntington Beach, California, USA",
+  socialMedia: {
+    twitter: null,
+    linkedin: null,
+    facebook: null,
+    instagram: null,
+  },
+  website: "https://www.jepistons.com",
+  email: null,
+  apiEndpoint: null,
+  brandSpecializations: ["Ferrari", "Porsche", "BMW", "Chevrolet", "Ford", "Audi"],
+  primaryParts: ["Piston"],
+  wikipedia: null,
+  countryOfOrigin: "United States",
+  founders: [],
+};

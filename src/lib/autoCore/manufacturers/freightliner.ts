@@ -5,6 +5,7 @@ export const freightliner: Manufacturer = {
   yearFounded: 1942,
   countryOfOrigin: "United States",
   website: "https://freightliner.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Freightliner",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Leland James"],
   subsidiaries: [],

@@ -5,6 +5,7 @@ export const maxus: Manufacturer = {
   yearFounded: 2011,
   countryOfOrigin: "China",
   website: "https://www.saicmaxus.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Maxus_(marque)",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["SAIC Motor"],
   subsidiaries: [],

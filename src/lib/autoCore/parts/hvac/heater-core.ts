@@ -5,6 +5,7 @@ export const heaterCore: Part = {
   category: "HVAC",
   description: "A small radiator inside the dashboard.",
   use: "Uses hot engine coolant to warm air for the cabin.",
+  wikipedia: "https://en.wikipedia.org/wiki/Heater_core",
   connectsTo: ["Water Pump", "Blower Motor"],
   connectedFrom: ["Water Pump"],
   averageCostUsd: 150,
