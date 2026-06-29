@@ -5,6 +5,7 @@ export const audi: Manufacturer = {
   yearFounded: 1909,
   countryOfOrigin: "Germany",
   website: "https://www.audi.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Audi",
   socialMedia: {
     twitter: "https://twitter.com/Audi",
     facebook: "https://www.facebook.com/audi",

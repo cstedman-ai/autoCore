@@ -5,6 +5,7 @@ export const hoodGasStrut: Part = {
   category: "Body & Exterior",
   description: "A gas-filled strut supporting the hood.",
   use: "Holds the hood open and dampens its motion.",
+  wikipedia: "https://en.wikipedia.org/wiki/Gas_spring",
   connectsTo: ["Hood"],
   connectedFrom: ["Hood"],
   averageCostUsd: 25,

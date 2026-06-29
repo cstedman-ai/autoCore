@@ -5,6 +5,7 @@ export const jaguar: Manufacturer = {
   yearFounded: 1922,
   countryOfOrigin: "United Kingdom",
   website: "https://www.jaguar.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Jaguar_Cars",
   socialMedia: {
     twitter: "https://twitter.com/Jaguar",
     facebook: "https://www.facebook.com/jaguar",

@@ -5,6 +5,7 @@ export const hyundai: Manufacturer = {
   yearFounded: 1967,
   countryOfOrigin: "South Korea",
   website: "https://www.hyundai.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Hyundai_Motor_Company",
   socialMedia: {
     twitter: "https://twitter.com/Hyundai",
     facebook: "https://www.facebook.com/Hyundai",

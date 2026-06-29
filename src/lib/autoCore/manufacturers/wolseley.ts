@@ -5,6 +5,7 @@ export const wolseley: Manufacturer = {
   yearFounded: 1901,
   countryOfOrigin: "United Kingdom",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Wolseley_Motors",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Herbert Austin"],
   subsidiaries: [],

@@ -5,6 +5,7 @@ export const navistar: Manufacturer = {
   yearFounded: 1902,
   countryOfOrigin: "United States",
   website: "https://www.navistar.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Navistar_International",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["International Harvester Company"],
   subsidiaries: ["International Trucks", "IC Bus"],

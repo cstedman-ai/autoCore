@@ -5,6 +5,7 @@ export const astonMartin: Manufacturer = {
   yearFounded: 1913,
   countryOfOrigin: "United Kingdom",
   website: "https://www.astonmartin.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Aston_Martin",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Lionel Martin", "Robert Bamford"],
   subsidiaries: ["Lagonda"],

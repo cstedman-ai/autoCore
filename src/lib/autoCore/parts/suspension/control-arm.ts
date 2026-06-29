@@ -5,6 +5,7 @@ export const controlArm: Part = {
   category: "Suspension",
   description: "A pivoting link connecting the wheel hub to the chassis.",
   use: "Locates the wheel and allows it to move up and down.",
+  wikipedia: "https://en.wikipedia.org/wiki/Control_arm",
   connectsTo: ["Ball Joint", "Bushing", "Steering Knuckle", "Chassis"],
   connectedFrom: ["Chassis"],
   averageCostUsd: 120,

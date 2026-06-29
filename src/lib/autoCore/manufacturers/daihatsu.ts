@@ -5,6 +5,7 @@ export const daihatsu: Manufacturer = {
   yearFounded: 1907,
   countryOfOrigin: "Japan",
   website: "https://www.daihatsu.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Daihatsu",
   socialMedia: {
     twitter: "https://twitter.com/daihatsupr",
     facebook: "https://www.facebook.com/daihatsu",

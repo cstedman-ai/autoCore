@@ -5,6 +5,7 @@ export const genesis: Manufacturer = {
   yearFounded: 2015,
   countryOfOrigin: "South Korea",
   website: "https://www.genesis.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Genesis_Motor",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Hyundai Motor Company"],
   subsidiaries: [],

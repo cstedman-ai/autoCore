@@ -5,6 +5,7 @@ export const singer: Manufacturer = {
   yearFounded: 1874,
   countryOfOrigin: "United Kingdom",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Singer_Motors",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["George Singer"],
   subsidiaries: [],

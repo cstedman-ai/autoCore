@@ -5,6 +5,7 @@ export const jetour: Manufacturer = {
   yearFounded: 2018,
   countryOfOrigin: "China",
   website: "https://www.jetour-global.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Jetour",
   socialMedia: {
     twitter: null,
     facebook: "https://www.facebook.com/JetourAutoGlobal",

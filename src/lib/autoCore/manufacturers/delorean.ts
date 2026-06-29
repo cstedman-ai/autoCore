@@ -5,6 +5,7 @@ export const delorean: Manufacturer = {
   yearFounded: 1975,
   countryOfOrigin: "United States",
   website: "https://delorean.com",
+  wikipedia: "https://en.wikipedia.org/wiki/DeLorean_Motor_Company",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["John DeLorean"],
   subsidiaries: [],

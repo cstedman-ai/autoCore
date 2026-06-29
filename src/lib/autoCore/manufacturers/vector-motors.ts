@@ -5,6 +5,7 @@ export const vectorMotors: Manufacturer = {
   yearFounded: 1971,
   countryOfOrigin: "United States",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Vector_Motors",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Gerald Wiegert"],
   subsidiaries: [],

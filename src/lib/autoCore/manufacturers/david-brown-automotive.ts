@@ -5,6 +5,7 @@ export const davidBrownAutomotive: Manufacturer = {
   yearFounded: 2013,
   countryOfOrigin: "United Kingdom",
   website: "https://davidbrownautomotive.com",
+  wikipedia: "https://en.wikipedia.org/wiki/David_Brown_Automotive",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["David Brown"],
   subsidiaries: [],

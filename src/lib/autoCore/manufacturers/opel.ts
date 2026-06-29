@@ -5,6 +5,7 @@ export const opel: Manufacturer = {
   yearFounded: 1862,
   countryOfOrigin: "Germany",
   website: "https://www.opel.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Opel",
   socialMedia: {
     twitter: "https://twitter.com/Opel",
     facebook: "https://www.facebook.com/opel",

@@ -5,6 +5,7 @@ export const scania: Manufacturer = {
   yearFounded: 1891,
   countryOfOrigin: "Sweden",
   website: "https://www.scania.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Scania_AB",
   socialMedia: {
     twitter: "https://twitter.com/ScaniaGroup",
     facebook: "https://www.facebook.com/scaniagroup",

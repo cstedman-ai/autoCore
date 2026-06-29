@@ -5,6 +5,7 @@ export const kgMobility: Manufacturer = {
   yearFounded: 1954,
   countryOfOrigin: "South Korea",
   website: "https://www.kg-mobility.com",
+  wikipedia: "https://en.wikipedia.org/wiki/KG_Mobility",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Ha Dong-hwan"],
   subsidiaries: [],

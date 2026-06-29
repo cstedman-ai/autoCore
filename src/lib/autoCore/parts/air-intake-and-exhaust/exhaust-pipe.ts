@@ -5,6 +5,7 @@ export const exhaustPipe: Part = {
   category: "Air Intake & Exhaust",
   description: "Tubing routing exhaust gases to the rear.",
   use: "Carries exhaust gases from the engine to the tailpipe.",
+  wikipedia: "https://en.wikipedia.org/wiki/Exhaust_system",
   connectsTo: ["Muffler", "Catalytic Converter"],
   connectedFrom: ["Muffler"],
   averageCostUsd: 100,

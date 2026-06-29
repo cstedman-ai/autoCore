@@ -5,6 +5,7 @@ export const bmw: Manufacturer = {
   yearFounded: 1916,
   countryOfOrigin: "Germany",
   website: "https://www.bmw.com",
+  wikipedia: "https://en.wikipedia.org/wiki/BMW",
   socialMedia: {
     twitter: "https://twitter.com/BMW",
     facebook: "https://www.facebook.com/BMW",

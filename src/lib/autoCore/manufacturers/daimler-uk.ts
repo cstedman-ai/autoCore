@@ -5,6 +5,7 @@ export const daimlerUk: Manufacturer = {
   yearFounded: 1896,
   countryOfOrigin: "United Kingdom",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Daimler_Company",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["H. J. Lawson"],
   subsidiaries: [],

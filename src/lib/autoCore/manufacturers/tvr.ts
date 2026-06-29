@@ -5,6 +5,7 @@ export const tvr: Manufacturer = {
   yearFounded: 1947,
   countryOfOrigin: "United Kingdom",
   website: "https://www.tvr.co.uk",
+  wikipedia: "https://en.wikipedia.org/wiki/TVR",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Trevor Wilkinson"],
   subsidiaries: [],

@@ -5,6 +5,7 @@ export const faradayFuture: Manufacturer = {
   yearFounded: 2014,
   countryOfOrigin: "United States",
   website: "https://www.ff.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Faraday_Future",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Jia Yueting", "Nick Sampson"],
   subsidiaries: [],

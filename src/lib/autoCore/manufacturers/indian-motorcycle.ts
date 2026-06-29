@@ -5,6 +5,7 @@ export const indianMotorcycle: Manufacturer = {
   yearFounded: 1901,
   countryOfOrigin: "United States",
   website: "https://www.indianmotorcycle.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Indian_Motorcycle",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["George M. Hendee", "Oscar Hedstrom"],
   subsidiaries: [],

@@ -5,6 +5,7 @@ export const engineControlUnitEcu: Part = {
   category: "Engine",
   description: "An electronic control module managing engine operation.",
   use: "Reads sensors and controls fuel injection, ignition timing and emissions.",
+  wikipedia: "https://en.wikipedia.org/wiki/Engine_control_unit",
   connectsTo: ["Fuel Injector", "Ignition Coil", "Oxygen Sensor", "Mass Air Flow Sensor", "Throttle Body"],
   connectedFrom: ["Wiring Harness"],
   averageCostUsd: 500,

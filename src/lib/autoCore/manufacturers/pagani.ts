@@ -5,6 +5,7 @@ export const pagani: Manufacturer = {
   yearFounded: 1992,
   countryOfOrigin: "Italy",
   website: "https://www.pagani.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Pagani_(company)",
   socialMedia: {
     twitter: "https://twitter.com/paganiautomobil",
     facebook: "https://www.facebook.com/PaganiAutomobili",

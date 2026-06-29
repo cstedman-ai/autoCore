@@ -5,6 +5,7 @@ export const radical: Manufacturer = {
   yearFounded: 1997,
   countryOfOrigin: "United Kingdom",
   website: "https://www.radicalmotorsport.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Radical_Sportscars",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Phil Abbott", "Mick Hyde"],
   subsidiaries: [],

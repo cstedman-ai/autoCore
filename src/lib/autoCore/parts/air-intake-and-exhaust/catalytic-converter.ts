@@ -5,6 +5,7 @@ export const catalyticConverter: Part = {
   category: "Air Intake & Exhaust",
   description: "An emissions device with precious-metal catalysts.",
   use: "Converts harmful exhaust gases into less harmful emissions.",
+  wikipedia: "https://en.wikipedia.org/wiki/Catalytic_converter",
   connectsTo: ["Exhaust Manifold", "Muffler", "Oxygen Sensor"],
   connectedFrom: ["Exhaust Manifold"],
   averageCostUsd: 600,

@@ -5,6 +5,7 @@ export const iveco: Manufacturer = {
   yearFounded: 1975,
   countryOfOrigin: "Italy",
   website: "https://www.iveco.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Iveco",
   socialMedia: {
     twitter: "https://twitter.com/Iveco",
     facebook: "https://www.facebook.com/Iveco",

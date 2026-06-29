@@ -5,6 +5,7 @@ export const lada: Manufacturer = {
   yearFounded: 1966,
   countryOfOrigin: "Russia",
   website: "https://www.lada.ru",
+  wikipedia: "https://en.wikipedia.org/wiki/Lada",
   socialMedia: {
     twitter: null,
     facebook: null,

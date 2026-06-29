@@ -5,6 +5,7 @@ export const international: Manufacturer = {
   yearFounded: 1902,
   countryOfOrigin: "United States",
   website: "https://www.internationaltrucks.com",
+  wikipedia: "https://en.wikipedia.org/wiki/International_Harvester",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["International Harvester Company"],
   subsidiaries: [],

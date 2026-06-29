@@ -5,6 +5,7 @@ export const bentley: Manufacturer = {
   yearFounded: 1919,
   countryOfOrigin: "United Kingdom",
   website: "https://www.bentleymotors.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Bentley",
   socialMedia: {
     twitter: "https://twitter.com/BentleyMotors",
     facebook: "https://www.facebook.com/BentleyMotors",

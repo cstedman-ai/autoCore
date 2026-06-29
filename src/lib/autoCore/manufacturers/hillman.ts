@@ -5,6 +5,7 @@ export const hillman: Manufacturer = {
   yearFounded: 1907,
   countryOfOrigin: "United Kingdom",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Hillman",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["William Hillman"],
   subsidiaries: [],

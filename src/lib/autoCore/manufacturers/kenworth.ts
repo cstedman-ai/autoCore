@@ -5,6 +5,7 @@ export const kenworth: Manufacturer = {
   yearFounded: 1923,
   countryOfOrigin: "United States",
   website: "https://www.kenworth.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Kenworth",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Harry Kent", "Edgar Worthington"],
   subsidiaries: [],

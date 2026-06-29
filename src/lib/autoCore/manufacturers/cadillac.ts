@@ -5,6 +5,7 @@ export const cadillac: Manufacturer = {
   yearFounded: 1902,
   countryOfOrigin: "United States",
   website: "https://www.cadillac.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Cadillac",
   socialMedia: {
     twitter: "https://twitter.com/Cadillac",
     facebook: "https://www.facebook.com/cadillac",

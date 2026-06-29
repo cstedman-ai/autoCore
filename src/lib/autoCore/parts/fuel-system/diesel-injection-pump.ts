@@ -5,6 +5,7 @@ export const dieselInjectionPump: Part = {
   category: "Fuel System",
   description: "A high-pressure pump for diesel fuel.",
   use: "Generates the very high pressures needed for diesel injection.",
+  wikipedia: "https://en.wikipedia.org/wiki/Injection_pump",
   connectsTo: ["Fuel Injector", "Fuel Filter"],
   connectedFrom: ["Fuel Filter"],
   averageCostUsd: 1500,

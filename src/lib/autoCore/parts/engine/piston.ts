@@ -5,6 +5,7 @@ export const piston: Part = {
   category: "Engine",
   description: "A cylindrical component that moves up and down inside the cylinder bore.",
   use: "Transfers combustion force to the connecting rod and crankshaft.",
+  wikipedia: "https://en.wikipedia.org/wiki/Piston",
   connectsTo: ["Connecting Rod", "Piston Rings"],
   connectedFrom: ["Engine Block"],
   averageCostUsd: 60,

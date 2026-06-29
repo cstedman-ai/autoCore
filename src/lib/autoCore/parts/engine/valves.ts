@@ -5,6 +5,7 @@ export const valves: Part = {
   category: "Engine",
   description: "Poppet valves that open and close intake and exhaust ports.",
   use: "Control the flow of air/fuel into and exhaust gases out of the combustion chamber.",
+  wikipedia: "https://en.wikipedia.org/wiki/Poppet_valve",
   connectsTo: ["Camshaft", "Cylinder Head"],
   connectedFrom: ["Camshaft"],
   averageCostUsd: 15,

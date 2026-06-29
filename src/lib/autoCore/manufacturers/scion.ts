@@ -5,6 +5,7 @@ export const scion: Manufacturer = {
   yearFounded: 2003,
   countryOfOrigin: "United States",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Scion_(automobile)",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Toyota Motor Corporation"],
   subsidiaries: [],

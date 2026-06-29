@@ -5,6 +5,7 @@ export const steeringRack: Part = {
   category: "Steering",
   description: "A rack-and-pinion gear assembly.",
   use: "Converts steering-wheel rotation into side-to-side wheel movement.",
+  wikipedia: "https://en.wikipedia.org/wiki/Rack_and_pinion",
   connectsTo: ["Tie Rod", "Steering Column", "Power Steering Pump"],
   connectedFrom: ["Steering Column"],
   averageCostUsd: 350,

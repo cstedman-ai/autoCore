@@ -5,6 +5,7 @@ export const hyundaiRotem: Manufacturer = {
   yearFounded: 1977,
   countryOfOrigin: "South Korea",
   website: "https://www.hyundai-rotem.co.kr",
+  wikipedia: "https://en.wikipedia.org/wiki/Hyundai_Rotem",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Hyundai Motor Group"],
   subsidiaries: [],

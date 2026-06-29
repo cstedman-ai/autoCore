@@ -5,6 +5,7 @@ export const mini: Manufacturer = {
   yearFounded: 1959,
   countryOfOrigin: "United Kingdom",
   website: "https://www.mini.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Mini_(marque)",
   socialMedia: {
     twitter: "https://twitter.com/MINI",
     facebook: "https://www.facebook.com/MINI",

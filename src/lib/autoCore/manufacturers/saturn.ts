@@ -5,6 +5,7 @@ export const saturn: Manufacturer = {
   yearFounded: 1985,
   countryOfOrigin: "United States",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Saturn_Corporation",
   socialMedia: {
     twitter: null,
     facebook: null,

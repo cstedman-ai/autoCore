@@ -5,6 +5,7 @@ export const morgan: Manufacturer = {
   yearFounded: 1910,
   countryOfOrigin: "United Kingdom",
   website: "https://morgan-motor.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Morgan_Motor_Company",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["H. F. S. Morgan"],
   subsidiaries: [],

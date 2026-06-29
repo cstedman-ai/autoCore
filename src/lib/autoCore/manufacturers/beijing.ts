@@ -5,6 +5,7 @@ export const beijing: Manufacturer = {
   yearFounded: 2019,
   countryOfOrigin: "China",
   website: "https://www.baicmotor.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Beijing_(marque)",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["BAIC Group"],
   subsidiaries: [],

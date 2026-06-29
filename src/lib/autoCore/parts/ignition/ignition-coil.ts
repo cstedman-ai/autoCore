@@ -5,6 +5,7 @@ export const ignitionCoil: Part = {
   category: "Ignition",
   description: "A transformer that steps up battery voltage.",
   use: "Generates the high voltage needed to fire the spark plugs.",
+  wikipedia: "https://en.wikipedia.org/wiki/Ignition_coil",
   connectsTo: ["Spark Plug", "Engine Control Unit (ECU)", "Battery (12V)"],
   connectedFrom: ["Engine Control Unit (ECU)"],
   averageCostUsd: 60,

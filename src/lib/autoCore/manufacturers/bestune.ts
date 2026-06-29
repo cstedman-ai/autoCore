@@ -5,6 +5,7 @@ export const bestune: Manufacturer = {
   yearFounded: 2006,
   countryOfOrigin: "China",
   website: "https://www.faw-bestune.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Bestune",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["FAW Group"],
   subsidiaries: [],

@@ -5,6 +5,7 @@ export const heroMotoCorp: Manufacturer = {
   yearFounded: 1984,
   countryOfOrigin: "India",
   website: "https://www.heromotocorp.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Hero_MotoCorp",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Brijmohan Lall Munjal"],
   subsidiaries: ["Vida"],

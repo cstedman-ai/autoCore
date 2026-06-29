@@ -5,6 +5,7 @@ export const tvsMotor: Manufacturer = {
   yearFounded: 1978,
   countryOfOrigin: "India",
   website: "https://www.tvsmotor.com",
+  wikipedia: "https://en.wikipedia.org/wiki/TVS_Motor_Company",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["T. V. Sundaram Iyengar"],
   subsidiaries: ["Norton Motorcycles", "Swiss E-Mobility Group"],

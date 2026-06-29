@@ -5,6 +5,7 @@ export const wartburg: Manufacturer = {
   yearFounded: 1956,
   countryOfOrigin: "East Germany",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Wartburg_(car)",
   socialMedia: {
     twitter: null,
     facebook: null,

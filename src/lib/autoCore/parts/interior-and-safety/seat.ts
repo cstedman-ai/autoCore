@@ -5,6 +5,7 @@ export const seat: Part = {
   category: "Interior & Safety",
   description: "A cushioned occupant seat with frame.",
   use: "Supports and positions occupants; houses belt anchors and sensors.",
+  wikipedia: null,
   connectsTo: ["Seatbelt", "Chassis"],
   connectedFrom: ["Chassis"],
   averageCostUsd: 600,

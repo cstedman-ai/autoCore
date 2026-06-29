@@ -5,6 +5,7 @@ export const lordstownMotors: Manufacturer = {
   yearFounded: 2018,
   countryOfOrigin: "United States",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Lordstown_Motors",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Steve Burns"],
   subsidiaries: [],

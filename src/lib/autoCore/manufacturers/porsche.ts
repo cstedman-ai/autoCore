@@ -5,6 +5,7 @@ export const porsche: Manufacturer = {
   yearFounded: 1931,
   countryOfOrigin: "Germany",
   website: "https://www.porsche.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Porsche",
   socialMedia: {
     twitter: "https://twitter.com/Porsche",
     facebook: "https://www.facebook.com/porsche",

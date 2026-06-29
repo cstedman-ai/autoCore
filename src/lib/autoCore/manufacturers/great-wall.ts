@@ -5,6 +5,7 @@ export const greatWall: Manufacturer = {
   yearFounded: 1984,
   countryOfOrigin: "China",
   website: "https://www.gwm-global.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Great_Wall_Motors",
   socialMedia: {
     twitter: null,
     facebook: "https://www.facebook.com/GWMGlobal",

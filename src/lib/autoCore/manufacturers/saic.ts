@@ -5,6 +5,7 @@ export const saic: Manufacturer = {
   yearFounded: 1955,
   countryOfOrigin: "China",
   website: "https://www.saicmotor.com",
+  wikipedia: "https://en.wikipedia.org/wiki/SAIC_Motor",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Shanghai municipal government"],
   subsidiaries: ["MG", "Roewe", "Maxus", "IM", "Rising Auto", "Baojun", "Wuling", "Yuejin"],

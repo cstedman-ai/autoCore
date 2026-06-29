@@ -5,6 +5,7 @@ export const gmc: Manufacturer = {
   yearFounded: 1911,
   countryOfOrigin: "United States",
   website: "https://www.gmc.com",
+  wikipedia: "https://en.wikipedia.org/wiki/GMC_(automobile)",
   socialMedia: {
     twitter: "https://twitter.com/gmc",
     facebook: "https://www.facebook.com/gmc",

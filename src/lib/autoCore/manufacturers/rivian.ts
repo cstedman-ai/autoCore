@@ -5,6 +5,7 @@ export const rivian: Manufacturer = {
   yearFounded: 2009,
   countryOfOrigin: "United States",
   website: "https://rivian.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Rivian",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["RJ Scaringe"],
   subsidiaries: [],

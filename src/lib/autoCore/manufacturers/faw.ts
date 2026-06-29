@@ -5,6 +5,7 @@ export const faw: Manufacturer = {
   yearFounded: 1953,
   countryOfOrigin: "China",
   website: "https://www.faw.com",
+  wikipedia: "https://en.wikipedia.org/wiki/FAW_Group",
   socialMedia: {
     twitter: null,
     facebook: null,

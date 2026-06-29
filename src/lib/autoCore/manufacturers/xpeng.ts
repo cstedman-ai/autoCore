@@ -5,6 +5,7 @@ export const xpeng: Manufacturer = {
   yearFounded: 2014,
   countryOfOrigin: "China",
   website: "https://www.xpeng.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Xpeng",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["He Xiaopeng", "Xia Heng", "He Tao"],
   subsidiaries: [],

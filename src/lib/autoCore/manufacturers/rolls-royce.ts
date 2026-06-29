@@ -5,6 +5,7 @@ export const rollsRoyce: Manufacturer = {
   yearFounded: 1904,
   countryOfOrigin: "United Kingdom",
   website: "https://www.rolls-roycemotorcars.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Rolls-Royce_Motor_Cars",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Charles Rolls", "Henry Royce"],
   subsidiaries: [],

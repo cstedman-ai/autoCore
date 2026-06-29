@@ -5,6 +5,7 @@ export const datsun: Manufacturer = {
   yearFounded: 1931,
   countryOfOrigin: "Japan",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Datsun",
   socialMedia: {
     twitter: null,
     facebook: null,

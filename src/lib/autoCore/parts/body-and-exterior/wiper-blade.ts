@@ -5,6 +5,7 @@ export const wiperBlade: Part = {
   category: "Body & Exterior",
   description: "A rubber blade on the wiper arm.",
   use: "Wipes water and debris off the windshield.",
+  wikipedia: "https://en.wikipedia.org/wiki/Windscreen_wiper",
   connectsTo: ["Windshield Wiper Motor"],
   connectedFrom: ["Windshield Wiper Motor"],
   averageCostUsd: 20,

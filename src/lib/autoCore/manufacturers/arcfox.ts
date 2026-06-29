@@ -5,6 +5,7 @@ export const arcfox: Manufacturer = {
   yearFounded: 2017,
   countryOfOrigin: "China",
   website: "https://www.arcfox.com.cn",
+  wikipedia: "https://en.wikipedia.org/wiki/Arcfox",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["BAIC Group"],
   subsidiaries: [],

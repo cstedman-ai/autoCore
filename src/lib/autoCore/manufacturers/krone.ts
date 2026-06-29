@@ -5,6 +5,7 @@ export const krone: Manufacturer = {
   yearFounded: 1906,
   countryOfOrigin: "Germany",
   website: "https://www.krone-trailer.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Krone",
   socialMedia: {
     twitter: null,
     facebook: "https://www.facebook.com/KroneCommercial",

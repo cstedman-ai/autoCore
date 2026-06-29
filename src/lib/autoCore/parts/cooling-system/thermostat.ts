@@ -5,6 +5,7 @@ export const thermostat: Part = {
   category: "Cooling System",
   description: "A temperature-sensitive coolant valve.",
   use: "Regulates coolant flow to bring the engine to and hold operating temperature.",
+  wikipedia: "https://en.wikipedia.org/wiki/Thermostat",
   connectsTo: ["Water Pump", "Radiator", "Engine Block"],
   connectedFrom: ["Engine Block"],
   averageCostUsd: 25,

@@ -5,6 +5,7 @@ export const batteryManagementSystem: Part = {
   category: "Electric Vehicle",
   description: "Electronics monitoring the HV battery.",
   use: "Balances cells and manages charge, temperature and safety of the pack.",
+  wikipedia: "https://en.wikipedia.org/wiki/Battery_management_system",
   connectsTo: ["High-Voltage Battery Pack", "Inverter"],
   connectedFrom: ["High-Voltage Battery Pack"],
   averageCostUsd: 600,

@@ -5,6 +5,7 @@ export const acura: Manufacturer = {
   yearFounded: 1986,
   countryOfOrigin: "Japan",
   website: "https://www.acura.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Acura",
   socialMedia: {
     twitter: "https://twitter.com/Acura",
     facebook: "https://www.facebook.com/Acura",

@@ -5,6 +5,7 @@ export const serpentineBelt: Part = {
   category: "Engine",
   description: "A single multi-ribbed belt routed around engine accessories.",
   use: "Drives the alternator, water pump, power-steering pump and AC compressor.",
+  wikipedia: "https://en.wikipedia.org/wiki/Serpentine_belt",
   connectsTo: ["Alternator", "Water Pump", "AC Compressor", "Power Steering Pump", "Harmonic Balancer"],
   connectedFrom: ["Harmonic Balancer"],
   averageCostUsd: 30,

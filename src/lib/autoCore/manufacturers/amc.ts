@@ -5,6 +5,7 @@ export const amc: Manufacturer = {
   yearFounded: 1954,
   countryOfOrigin: "United States",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/American_Motors",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["George W. Mason"],
   subsidiaries: [],

@@ -5,6 +5,7 @@ export const maserati: Manufacturer = {
   yearFounded: 1914,
   countryOfOrigin: "Italy",
   website: "https://www.maserati.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Maserati",
   socialMedia: {
     twitter: "https://twitter.com/maserati_hq",
     facebook: "https://www.facebook.com/Maserati",

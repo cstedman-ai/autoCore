@@ -5,6 +5,7 @@ export const ssangyong: Manufacturer = {
   yearFounded: 1954,
   countryOfOrigin: "South Korea",
   website: "https://www.kg-mobility.com",
+  wikipedia: "https://en.wikipedia.org/wiki/SsangYong_Motor",
   socialMedia: {
     twitter: null,
     facebook: "https://www.facebook.com/kgmobility",

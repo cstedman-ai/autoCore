@@ -5,6 +5,7 @@ export const westernStar: Manufacturer = {
   yearFounded: 1967,
   countryOfOrigin: "United States",
   website: "https://westernstartrucks.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Western_Star_Trucks",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["White Motor Company"],
   subsidiaries: [],

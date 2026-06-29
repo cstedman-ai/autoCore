@@ -5,6 +5,7 @@ export const mercedesBenz: Manufacturer = {
   yearFounded: 1926,
   countryOfOrigin: "Germany",
   website: "https://www.mercedes-benz.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Mercedes-Benz",
   socialMedia: {
     twitter: "https://twitter.com/MercedesBenz",
     facebook: "https://www.facebook.com/mercedesbenz",

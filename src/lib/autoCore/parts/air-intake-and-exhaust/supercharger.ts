@@ -5,6 +5,7 @@ export const supercharger: Part = {
   category: "Air Intake & Exhaust",
   description: "A belt-driven air compressor.",
   use: "Mechanically compresses intake air to boost engine power.",
+  wikipedia: "https://en.wikipedia.org/wiki/Supercharger",
   connectsTo: ["Intake Manifold", "Serpentine Belt"],
   connectedFrom: ["Serpentine Belt"],
   averageCostUsd: 2500,

@@ -5,6 +5,7 @@ export const leafSpring: Part = {
   category: "Suspension",
   description: "A stacked-blade spring used mainly on trucks.",
   use: "Supports load and locates the axle on heavier/rear suspensions.",
+  wikipedia: "https://en.wikipedia.org/wiki/Leaf_spring",
   connectsTo: ["Axle", "Chassis"],
   connectedFrom: ["Chassis"],
   averageCostUsd: 200,

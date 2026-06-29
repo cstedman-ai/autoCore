@@ -5,6 +5,7 @@ export const lexus: Manufacturer = {
   yearFounded: 1989,
   countryOfOrigin: "Japan",
   website: "https://www.lexus.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Lexus",
   socialMedia: {
     twitter: "https://twitter.com/Lexus",
     facebook: "https://www.facebook.com/lexus",

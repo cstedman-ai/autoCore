@@ -5,6 +5,7 @@ export const wuling: Manufacturer = {
   yearFounded: 2002,
   countryOfOrigin: "China",
   website: "https://www.sgmw.com.cn",
+  wikipedia: "https://en.wikipedia.org/wiki/Wuling_Motors",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["SAIC-GM-Wuling"],
   subsidiaries: [],

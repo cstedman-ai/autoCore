@@ -5,6 +5,7 @@ export const hongqi: Manufacturer = {
   yearFounded: 1958,
   countryOfOrigin: "China",
   website: "https://www.hongqi-global.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Hongqi_(marque)",
   socialMedia: {
     twitter: null,
     facebook: "https://www.facebook.com/HongqiGlobal",

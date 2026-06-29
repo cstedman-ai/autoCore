@@ -5,6 +5,7 @@ export const beijingOffRoad: Manufacturer = {
   yearFounded: 2013,
   countryOfOrigin: "China",
   website: "https://www.bj40.com.cn",
+  wikipedia: "https://en.wikipedia.org/wiki/Beijing_Off-road",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["BAIC Group"],
   subsidiaries: [],

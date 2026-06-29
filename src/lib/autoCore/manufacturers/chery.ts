@@ -5,6 +5,7 @@ export const chery: Manufacturer = {
   yearFounded: 1997,
   countryOfOrigin: "China",
   website: "https://www.cheryinternational.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Chery",
   socialMedia: {
     twitter: null,
     facebook: "https://www.facebook.com/CheryAutoOfficial",

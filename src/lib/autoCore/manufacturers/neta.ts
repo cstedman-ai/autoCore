@@ -5,6 +5,7 @@ export const neta: Manufacturer = {
   yearFounded: 2018,
   countryOfOrigin: "China",
   website: "https://www.netaauto.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Neta_Auto",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Hozon Auto"],
   subsidiaries: [],

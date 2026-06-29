@@ -5,6 +5,7 @@ export const marutiSuzuki: Manufacturer = {
   yearFounded: 1981,
   countryOfOrigin: "India",
   website: "https://www.marutisuzuki.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Maruti_Suzuki",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Government of India", "Suzuki Motor Corporation"],
   subsidiaries: [],

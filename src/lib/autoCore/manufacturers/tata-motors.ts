@@ -5,6 +5,7 @@ export const tataMotors: Manufacturer = {
   yearFounded: 1945,
   countryOfOrigin: "India",
   website: "https://www.tatamotors.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Tata_Motors",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["J. R. D. Tata"],
   subsidiaries: ["Jaguar Land Rover", "Tata Passenger Electric Mobility", "Tata Daewoo"],

@@ -5,6 +5,7 @@ export const roush: Manufacturer = {
   yearFounded: 1995,
   countryOfOrigin: "United States",
   website: "https://www.roushperformance.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Roush_Performance",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Jack Roush"],
   subsidiaries: [],

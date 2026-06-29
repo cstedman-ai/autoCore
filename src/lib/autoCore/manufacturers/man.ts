@@ -5,6 +5,7 @@ export const man: Manufacturer = {
   yearFounded: 1758,
   countryOfOrigin: "Germany",
   website: "https://www.man.eu",
+  wikipedia: "https://en.wikipedia.org/wiki/MAN_SE",
   socialMedia: {
     twitter: "https://twitter.com/MAN_SE",
     facebook: "https://www.facebook.com/MANTruckandBus",

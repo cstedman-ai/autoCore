@@ -5,6 +5,7 @@ export const sunbeam: Manufacturer = {
   yearFounded: 1888,
   countryOfOrigin: "United Kingdom",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Sunbeam_Motor_Car_Company",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["John Marston"],
   subsidiaries: [],

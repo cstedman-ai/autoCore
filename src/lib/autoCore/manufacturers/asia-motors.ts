@@ -5,6 +5,7 @@ export const asiaMotors: Manufacturer = {
   yearFounded: 1965,
   countryOfOrigin: "South Korea",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Asia_Motors",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Lee Moon-hwan"],
   subsidiaries: [],

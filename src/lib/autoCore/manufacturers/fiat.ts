@@ -5,6 +5,7 @@ export const fiat: Manufacturer = {
   yearFounded: 1899,
   countryOfOrigin: "Italy",
   website: "https://www.fiat.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Fiat",
   socialMedia: {
     twitter: "https://twitter.com/FiatOnline",
     facebook: "https://www.facebook.com/fiat",

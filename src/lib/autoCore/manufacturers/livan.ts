@@ -5,6 +5,7 @@ export const livan: Manufacturer = {
   yearFounded: 2022,
   countryOfOrigin: "China",
   website: "https://www.livanauto.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Livan",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Geely", "Lifan"],
   subsidiaries: [],

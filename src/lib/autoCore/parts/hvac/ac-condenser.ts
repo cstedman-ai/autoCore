@@ -5,6 +5,7 @@ export const acCondenser: Part = {
   category: "HVAC",
   description: "A front-mounted refrigerant heat exchanger.",
   use: "Releases heat from refrigerant so it condenses to a liquid.",
+  wikipedia: "https://en.wikipedia.org/wiki/Condenser_(heat_transfer)",
   connectsTo: ["AC Compressor", "Expansion Valve"],
   connectedFrom: ["AC Compressor"],
   averageCostUsd: 150,

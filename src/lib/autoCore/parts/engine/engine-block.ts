@@ -5,6 +5,7 @@ export const engineBlock: Part = {
   category: "Engine",
   description: "The main cast metal structure that houses the cylinders, pistons and crankshaft.",
   use: "Forms the core of the internal-combustion engine and contains the combustion chambers.",
+  wikipedia: "https://en.wikipedia.org/wiki/Engine_block",
   connectsTo: ["Cylinder Head", "Crankshaft", "Pistons", "Oil Pan"],
   connectedFrom: ["Cylinder Head", "Engine Mount"],
   averageCostUsd: 3500,

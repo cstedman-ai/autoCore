@@ -5,6 +5,7 @@ export const mackTrucks: Manufacturer = {
   yearFounded: 1900,
   countryOfOrigin: "United States",
   website: "https://www.macktrucks.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Mack_Trucks",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["John Mack", "Augustus Mack"],
   subsidiaries: [],

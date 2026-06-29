@@ -5,6 +5,7 @@ export const relay: Part = {
   category: "Electrical",
   description: "An electrically operated switch.",
   use: "Lets a low-current signal switch a high-current circuit.",
+  wikipedia: "https://en.wikipedia.org/wiki/Relay",
   connectsTo: ["Fuse Box", "Wiring Harness"],
   connectedFrom: ["Fuse Box"],
   averageCostUsd: 15,

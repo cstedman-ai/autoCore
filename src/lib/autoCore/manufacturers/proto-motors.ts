@@ -5,6 +5,7 @@ export const protoMotors: Manufacturer = {
   yearFounded: 1997,
   countryOfOrigin: "South Korea",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Proto_Motors",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Kim Han-chul"],
   subsidiaries: [],

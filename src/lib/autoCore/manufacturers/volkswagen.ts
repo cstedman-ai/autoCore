@@ -5,6 +5,7 @@ export const volkswagen: Manufacturer = {
   yearFounded: 1937,
   countryOfOrigin: "Germany",
   website: "https://www.volkswagen.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Volkswagen",
   socialMedia: {
     twitter: "https://twitter.com/Volkswagen",
     facebook: "https://www.facebook.com/volkswagen",

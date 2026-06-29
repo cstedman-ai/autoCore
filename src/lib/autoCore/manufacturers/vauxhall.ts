@@ -5,6 +5,7 @@ export const vauxhall: Manufacturer = {
   yearFounded: 1857,
   countryOfOrigin: "United Kingdom",
   website: "https://www.vauxhall.co.uk",
+  wikipedia: "https://en.wikipedia.org/wiki/Vauxhall_Motors",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Alexander Wilson"],
   subsidiaries: [],

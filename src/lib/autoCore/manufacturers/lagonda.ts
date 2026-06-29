@@ -5,6 +5,7 @@ export const lagonda: Manufacturer = {
   yearFounded: 1906,
   countryOfOrigin: "United Kingdom",
   website: "https://www.astonmartin.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Lagonda",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Wilbur Gunn"],
   subsidiaries: [],

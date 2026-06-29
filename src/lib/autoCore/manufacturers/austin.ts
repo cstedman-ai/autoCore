@@ -5,6 +5,7 @@ export const austin: Manufacturer = {
   yearFounded: 1905,
   countryOfOrigin: "United Kingdom",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Austin_Motor_Company",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Herbert Austin"],
   subsidiaries: [],

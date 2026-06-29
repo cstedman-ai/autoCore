@@ -5,6 +5,7 @@ export const honda: Manufacturer = {
   yearFounded: 1948,
   countryOfOrigin: "Japan",
   website: "https://www.honda.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Honda",
   socialMedia: {
     twitter: "https://twitter.com/Honda",
     facebook: "https://www.facebook.com/Honda",

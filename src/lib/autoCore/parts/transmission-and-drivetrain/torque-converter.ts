@@ -5,6 +5,7 @@ export const torqueConverter: Part = {
   category: "Transmission & Drivetrain",
   description: "A fluid coupling between engine and automatic gearbox.",
   use: "Transfers and multiplies engine torque while allowing the engine to idle.",
+  wikipedia: "https://en.wikipedia.org/wiki/Torque_converter",
   connectsTo: ["Flywheel", "Automatic Transmission"],
   connectedFrom: ["Flywheel"],
   averageCostUsd: 300,

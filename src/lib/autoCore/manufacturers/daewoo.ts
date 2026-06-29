@@ -5,6 +5,7 @@ export const daewoo: Manufacturer = {
   yearFounded: 1967,
   countryOfOrigin: "South Korea",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Daewoo_Motors",
   socialMedia: {
     twitter: null,
     facebook: null,

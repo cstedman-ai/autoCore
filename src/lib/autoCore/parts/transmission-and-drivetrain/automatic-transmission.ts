@@ -5,6 +5,7 @@ export const automaticTransmission: Part = {
   category: "Transmission & Drivetrain",
   description: "A self-shifting gearbox with a torque converter.",
   use: "Automatically selects gear ratios without driver clutch input.",
+  wikipedia: "https://en.wikipedia.org/wiki/Automatic_transmission",
   connectsTo: ["Torque Converter", "Driveshaft", "Transmission Control Unit"],
   connectedFrom: ["Torque Converter"],
   averageCostUsd: 2500,

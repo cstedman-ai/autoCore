@@ -5,6 +5,7 @@ export const crankshaft: Part = {
   category: "Engine",
   description: "A rotating shaft with offset journals driven by the connecting rods.",
   use: "Converts reciprocating piston motion into rotational torque for the drivetrain.",
+  wikipedia: "https://en.wikipedia.org/wiki/Crankshaft",
   connectsTo: ["Connecting Rod", "Flywheel", "Harmonic Balancer", "Timing Chain"],
   connectedFrom: ["Connecting Rod"],
   averageCostUsd: 700,

@@ -5,6 +5,7 @@ export const citroen: Manufacturer = {
   yearFounded: 1919,
   countryOfOrigin: "France",
   website: "https://www.citroen.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Citro%C3%ABn",
   socialMedia: {
     twitter: "https://twitter.com/Citroen",
     facebook: "https://www.facebook.com/citroen",

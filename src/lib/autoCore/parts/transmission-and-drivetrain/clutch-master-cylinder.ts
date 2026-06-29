@@ -5,6 +5,7 @@ export const clutchMasterCylinder: Part = {
   category: "Transmission & Drivetrain",
   description: "A hydraulic cylinder actuated by the clutch pedal.",
   use: "Converts pedal force into hydraulic pressure to operate the clutch.",
+  wikipedia: "https://en.wikipedia.org/wiki/Master_cylinder",
   connectsTo: ["Clutch", "Clutch Slave Cylinder"],
   connectedFrom: ["Clutch Slave Cylinder"],
   averageCostUsd: 60,

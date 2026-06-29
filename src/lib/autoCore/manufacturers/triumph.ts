@@ -5,6 +5,7 @@ export const triumph: Manufacturer = {
   yearFounded: 1885,
   countryOfOrigin: "United Kingdom",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Triumph_Motor_Company",
   socialMedia: {
     twitter: null,
     facebook: null,

@@ -5,6 +5,7 @@ export const daf: Manufacturer = {
   yearFounded: 1928,
   countryOfOrigin: "Netherlands",
   website: "https://www.daf.com",
+  wikipedia: "https://en.wikipedia.org/wiki/DAF_Trucks",
   socialMedia: {
     twitter: "https://twitter.com/DAFTrucks",
     facebook: "https://www.facebook.com/DAFTrucks",

@@ -5,6 +5,7 @@ export const mahindra: Manufacturer = {
   yearFounded: 1945,
   countryOfOrigin: "India",
   website: "https://www.mahindra.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Mahindra_&_Mahindra",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["J. C. Mahindra", "K. C. Mahindra", "Malik Ghulam Muhammad"],
   subsidiaries: ["Mahindra Electric", "Pininfarina", "Classic Legends"],

@@ -5,6 +5,7 @@ export const uaz: Manufacturer = {
   yearFounded: 1941,
   countryOfOrigin: "Russia",
   website: "https://uaz.ru",
+  wikipedia: "https://en.wikipedia.org/wiki/UAZ",
   socialMedia: {
     twitter: null,
     facebook: null,

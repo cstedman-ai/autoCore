@@ -5,6 +5,7 @@ export const wey: Manufacturer = {
   yearFounded: 2016,
   countryOfOrigin: "China",
   website: "https://www.wey.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Wey_(marque)",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Great Wall Motors"],
   subsidiaries: [],

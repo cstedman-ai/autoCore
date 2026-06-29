@@ -5,6 +5,7 @@ export const dacia: Manufacturer = {
   yearFounded: 1966,
   countryOfOrigin: "Romania",
   website: "https://www.dacia.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Automobile_Dacia",
   socialMedia: {
     twitter: "https://twitter.com/Dacia",
     facebook: "https://www.facebook.com/dacia",

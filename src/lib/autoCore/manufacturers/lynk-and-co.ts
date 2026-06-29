@@ -5,6 +5,7 @@ export const lynkAndCo: Manufacturer = {
   yearFounded: 2016,
   countryOfOrigin: "China",
   website: "https://www.lynkco.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Lynk_&_Co",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Geely", "Volvo Cars"],
   subsidiaries: [],

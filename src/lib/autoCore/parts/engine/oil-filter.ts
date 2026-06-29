@@ -5,6 +5,7 @@ export const oilFilter: Part = {
   category: "Engine",
   description: "A replaceable filter element in the lubrication circuit.",
   use: "Removes contaminants and metal particles from circulating engine oil.",
+  wikipedia: "https://en.wikipedia.org/wiki/Oil_filter",
   connectsTo: ["Oil Pump", "Engine Block"],
   connectedFrom: ["Oil Pump"],
   averageCostUsd: 12,

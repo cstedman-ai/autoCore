@@ -5,6 +5,7 @@ export const haval: Manufacturer = {
   yearFounded: 2013,
   countryOfOrigin: "China",
   website: "https://www.haval-global.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Haval",
   socialMedia: {
     twitter: null,
     facebook: "https://www.facebook.com/HavalGlobal",

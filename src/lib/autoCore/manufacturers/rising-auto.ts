@@ -5,6 +5,7 @@ export const risingAuto: Manufacturer = {
   yearFounded: 2020,
   countryOfOrigin: "China",
   website: "https://www.risingauto.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Rising_Auto",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["SAIC Motor"],
   subsidiaries: [],

@@ -5,6 +5,7 @@ export const royalEnfield: Manufacturer = {
   yearFounded: 1955,
   countryOfOrigin: "India",
   website: "https://www.royalenfield.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Royal_Enfield",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["K. R. Sundaram Iyer (Madras Motors)"],
   subsidiaries: [],

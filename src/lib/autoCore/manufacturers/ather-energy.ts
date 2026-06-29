@@ -5,6 +5,7 @@ export const atherEnergy: Manufacturer = {
   yearFounded: 2013,
   countryOfOrigin: "India",
   website: "https://www.atherenergy.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Ather_Energy",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Tarun Mehta", "Swapnil Jain"],
   subsidiaries: [],

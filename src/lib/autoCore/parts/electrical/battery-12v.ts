@@ -5,6 +5,7 @@ export const battery12v: Part = {
   category: "Electrical",
   description: "A lead-acid or AGM starter battery.",
   use: "Stores electrical energy to start the engine and power accessories.",
+  wikipedia: "https://en.wikipedia.org/wiki/Automotive_battery",
   connectsTo: ["Alternator", "Starter Motor", "Wiring Harness"],
   connectedFrom: ["Alternator"],
   averageCostUsd: 150,

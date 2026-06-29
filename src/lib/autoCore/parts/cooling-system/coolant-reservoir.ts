@@ -5,6 +5,7 @@ export const coolantReservoir: Part = {
   category: "Cooling System",
   description: "An expansion tank for engine coolant.",
   use: "Holds excess coolant and accommodates thermal expansion.",
+  wikipedia: null,
   connectsTo: ["Radiator"],
   connectedFrom: ["Radiator"],
   averageCostUsd: 40,

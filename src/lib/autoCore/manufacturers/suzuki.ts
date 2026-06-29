@@ -5,6 +5,7 @@ export const suzuki: Manufacturer = {
   yearFounded: 1909,
   countryOfOrigin: "Japan",
   website: "https://www.globalsuzuki.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Suzuki",
   socialMedia: {
     twitter: "https://twitter.com/suzukicars_in",
     facebook: "https://www.facebook.com/SuzukiGlobalAutomobile",

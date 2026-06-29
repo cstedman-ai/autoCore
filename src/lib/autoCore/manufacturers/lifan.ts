@@ -5,6 +5,7 @@ export const lifan: Manufacturer = {
   yearFounded: 1992,
   countryOfOrigin: "China",
   website: "https://www.lifan.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Lifan_Group",
   socialMedia: {
     twitter: null,
     facebook: null,

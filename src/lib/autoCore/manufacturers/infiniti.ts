@@ -5,6 +5,7 @@ export const infiniti: Manufacturer = {
   yearFounded: 1989,
   countryOfOrigin: "Japan",
   website: "https://www.infiniti.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Infiniti",
   socialMedia: {
     twitter: "https://twitter.com/Infiniti",
     facebook: "https://www.facebook.com/Infiniti",

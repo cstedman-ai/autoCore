@@ -5,6 +5,7 @@ export const liAuto: Manufacturer = {
   yearFounded: 2015,
   countryOfOrigin: "China",
   website: "https://www.lixiang.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Li_Auto",
   socialMedia: {
     twitter: "https://twitter.com/LiAutoInc",
     facebook: null,

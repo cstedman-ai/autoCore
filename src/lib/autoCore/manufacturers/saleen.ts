@@ -5,6 +5,7 @@ export const saleen: Manufacturer = {
   yearFounded: 1983,
   countryOfOrigin: "United States",
   website: "https://www.saleen.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Saleen",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Steve Saleen"],
   subsidiaries: [],

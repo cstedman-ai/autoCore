@@ -5,6 +5,7 @@ export const seatbelt: Part = {
   category: "Interior & Safety",
   description: "A restraint webbing with retractor and pretensioner.",
   use: "Restrains occupants in a crash to reduce injury.",
+  wikipedia: "https://en.wikipedia.org/wiki/Seatbelt",
   connectsTo: ["Seat", "Airbag Control Unit"],
   connectedFrom: ["Airbag Control Unit"],
   averageCostUsd: 120,

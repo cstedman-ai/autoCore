@@ -5,6 +5,7 @@ export const jac: Manufacturer = {
   yearFounded: 1964,
   countryOfOrigin: "China",
   website: "https://www.jac.com.cn",
+  wikipedia: "https://en.wikipedia.org/wiki/JAC_Group",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Anhui provincial government"],
   subsidiaries: ["JAC Refine", "JAC Yiwei"],

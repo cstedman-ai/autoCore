@@ -5,6 +5,7 @@ export const starterMotor: Part = {
   category: "Electrical",
   description: "An electric motor that cranks the engine.",
   use: "Spins the flywheel to start the internal-combustion engine.",
+  wikipedia: "https://en.wikipedia.org/wiki/Starter_(engine)",
   connectsTo: ["Battery (12V)", "Flywheel"],
   connectedFrom: ["Battery (12V)"],
   averageCostUsd: 180,

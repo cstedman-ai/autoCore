@@ -5,6 +5,7 @@ export const gaz: Manufacturer = {
   yearFounded: 1932,
   countryOfOrigin: "Russia",
   website: "https://azgaz.ru",
+  wikipedia: "https://en.wikipedia.org/wiki/GAZ",
   socialMedia: {
     twitter: null,
     facebook: null,

@@ -5,6 +5,7 @@ export const jeep: Manufacturer = {
   yearFounded: 1943,
   countryOfOrigin: "United States",
   website: "https://www.jeep.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Jeep",
   socialMedia: {
     twitter: "https://twitter.com/Jeep",
     facebook: "https://www.facebook.com/jeep",

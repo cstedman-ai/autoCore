@@ -5,6 +5,7 @@ export const dongfengNammi: Manufacturer = {
   yearFounded: 2023,
   countryOfOrigin: "China",
   website: "https://www.dongfeng-nammi.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Dongfeng_Nammi",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Dongfeng Motor Corporation"],
   subsidiaries: [],

@@ -5,6 +5,7 @@ export const bushing: Part = {
   category: "Suspension",
   description: "A rubber or polyurethane pivot insert.",
   use: "Cushions and locates suspension links while absorbing vibration.",
+  wikipedia: "https://en.wikipedia.org/wiki/Bushing_(isolator)",
   connectsTo: ["Control Arm", "Sway Bar"],
   connectedFrom: ["Control Arm"],
   averageCostUsd: 25,

@@ -5,6 +5,7 @@ export const komatsu: Manufacturer = {
   yearFounded: 1921,
   countryOfOrigin: "Japan",
   website: "https://www.komatsu.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Komatsu_Limited",
   socialMedia: {
     twitter: "https://twitter.com/komatsu",
     facebook: "https://www.facebook.com/KomatsuLtd",

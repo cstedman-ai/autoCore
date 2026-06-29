@@ -5,6 +5,7 @@ export const byd: Manufacturer = {
   yearFounded: 1995,
   countryOfOrigin: "China",
   website: "https://www.byd.com",
+  wikipedia: "https://en.wikipedia.org/wiki/BYD",
   socialMedia: {
     twitter: "https://twitter.com/BYDCompany",
     facebook: "https://www.facebook.com/bydcompany",

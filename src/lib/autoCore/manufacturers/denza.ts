@@ -5,6 +5,7 @@ export const denza: Manufacturer = {
   yearFounded: 2010,
   countryOfOrigin: "China",
   website: "https://www.denza.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Denza",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["BYD", "Mercedes-Benz"],
   subsidiaries: [],

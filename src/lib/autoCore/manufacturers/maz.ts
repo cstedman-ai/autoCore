@@ -5,6 +5,7 @@ export const maz: Manufacturer = {
   yearFounded: 1944,
   countryOfOrigin: "Belarus",
   website: "https://maz.by",
+  wikipedia: "https://en.wikipedia.org/wiki/Minsk_Automobile_Plant",
   socialMedia: {
     twitter: null,
     facebook: null,

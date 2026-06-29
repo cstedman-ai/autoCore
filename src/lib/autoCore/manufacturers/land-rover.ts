@@ -5,6 +5,7 @@ export const landRover: Manufacturer = {
   yearFounded: 1948,
   countryOfOrigin: "United Kingdom",
   website: "https://www.landrover.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Land_Rover",
   socialMedia: {
     twitter: "https://twitter.com/LandRover",
     facebook: "https://www.facebook.com/landrover",

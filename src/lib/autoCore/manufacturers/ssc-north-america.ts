@@ -5,6 +5,7 @@ export const sscNorthAmerica: Manufacturer = {
   yearFounded: 1998,
   countryOfOrigin: "United States",
   website: "https://www.sscnorthamerica.com",
+  wikipedia: "https://en.wikipedia.org/wiki/SSC_North_America",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Jerod Shelby"],
   subsidiaries: [],

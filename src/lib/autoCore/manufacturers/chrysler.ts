@@ -5,6 +5,7 @@ export const chrysler: Manufacturer = {
   yearFounded: 1925,
   countryOfOrigin: "United States",
   website: "https://www.chrysler.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Chrysler",
   socialMedia: {
     twitter: "https://twitter.com/chrysler",
     facebook: "https://www.facebook.com/chrysler",

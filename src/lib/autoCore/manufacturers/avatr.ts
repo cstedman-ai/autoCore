@@ -5,6 +5,7 @@ export const avatr: Manufacturer = {
   yearFounded: 2018,
   countryOfOrigin: "China",
   website: "https://www.avatr.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Avatr_Technology",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Changan Automobile", "CATL", "Huawei"],
   subsidiaries: [],

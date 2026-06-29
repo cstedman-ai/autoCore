@@ -5,6 +5,7 @@ export const lotus: Manufacturer = {
   yearFounded: 1952,
   countryOfOrigin: "United Kingdom",
   website: "https://www.lotuscars.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Lotus_Cars",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Colin Chapman"],
   subsidiaries: [],

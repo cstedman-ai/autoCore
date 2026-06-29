@@ -5,6 +5,7 @@ export const mitsubishi: Manufacturer = {
   yearFounded: 1970,
   countryOfOrigin: "Japan",
   website: "https://www.mitsubishi-motors.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Mitsubishi_Motors",
   socialMedia: {
     twitter: "https://twitter.com/MitsubishiMotrs",
     facebook: "https://www.facebook.com/MitsubishiMotors",

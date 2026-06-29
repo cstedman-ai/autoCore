@@ -5,6 +5,7 @@ export const oldsmobile: Manufacturer = {
   yearFounded: 1897,
   countryOfOrigin: "United States",
   website: null,
+  wikipedia: "https://en.wikipedia.org/wiki/Oldsmobile",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Ransom E. Olds"],
   subsidiaries: [],

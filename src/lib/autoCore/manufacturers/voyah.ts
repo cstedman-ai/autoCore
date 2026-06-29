@@ -5,6 +5,7 @@ export const voyah: Manufacturer = {
   yearFounded: 2020,
   countryOfOrigin: "China",
   website: "https://www.voyah.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Voyah",
   socialMedia: {
     twitter: null,
     facebook: "https://www.facebook.com/VoyahGlobal",

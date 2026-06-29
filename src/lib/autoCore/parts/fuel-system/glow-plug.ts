@@ -5,6 +5,7 @@ export const glowPlug: Part = {
   category: "Fuel System",
   description: "A heating element in each diesel cylinder.",
   use: "Pre-heats the combustion chamber to start a cold diesel engine.",
+  wikipedia: "https://en.wikipedia.org/wiki/Glowplug",
   connectsTo: ["Cylinder Head", "Engine Control Unit (ECU)"],
   connectedFrom: ["Engine Control Unit (ECU)"],
   averageCostUsd: 25,

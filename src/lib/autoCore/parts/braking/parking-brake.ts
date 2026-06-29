@@ -5,6 +5,7 @@ export const parkingBrake: Part = {
   category: "Braking",
   description: "A mechanical or electric brake holding the car still.",
   use: "Keeps the vehicle stationary when parked.",
+  wikipedia: "https://en.wikipedia.org/wiki/Parking_brake",
   connectsTo: ["Brake Caliper", "Brake Drum"],
   connectedFrom: [],
   averageCostUsd: 60,

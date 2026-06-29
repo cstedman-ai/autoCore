@@ -5,6 +5,7 @@ export const mazda: Manufacturer = {
   yearFounded: 1920,
   countryOfOrigin: "Japan",
   website: "https://www.mazda.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Mazda",
   socialMedia: {
     twitter: "https://twitter.com/MazdaUSA",
     facebook: "https://www.facebook.com/Mazda",

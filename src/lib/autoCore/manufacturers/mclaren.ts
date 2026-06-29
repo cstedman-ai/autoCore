@@ -5,6 +5,7 @@ export const mclaren: Manufacturer = {
   yearFounded: 1985,
   countryOfOrigin: "United Kingdom",
   website: "https://cars.mclaren.com",
+  wikipedia: "https://en.wikipedia.org/wiki/McLaren_Automotive",
   socialMedia: { twitter: null, facebook: null, instagram: null, linkedin: null },
   founders: ["Ron Dennis"],
   subsidiaries: [],
