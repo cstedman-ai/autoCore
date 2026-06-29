@@ -11,4 +11,10 @@ export const timingBelt: Part = {
   averageCostUsd: 60,
   notableManufacturers: ["Gates", "Continental", "Dayco", "Bosch"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["routing guide", "length-check mockup", "pulley alignment tool"],
+    idealMaterials: ["TPU for mockups", "PETG", "ASA"],
+    notes: "Drive belts require reinforced rubber/fiber construction and cannot be safely replaced by typical prints.",
+  },
 };

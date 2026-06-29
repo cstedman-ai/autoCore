@@ -11,6 +11,8 @@ export const setra: Manufacturer = {
     facebook: "https://www.facebook.com/Setra",
     instagram: "https://www.instagram.com/setra_buses",
     linkedin: null,
+    youtube: null,
+    reddit: null,
   },
   founders: ["Kässbohrer"],
   subsidiaries: [],

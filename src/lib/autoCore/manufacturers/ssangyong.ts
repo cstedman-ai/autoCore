@@ -11,6 +11,8 @@ export const ssangyong: Manufacturer = {
     facebook: "https://www.facebook.com/kgmobility",
     instagram: "https://www.instagram.com/kg_mobility_official",
     linkedin: "https://www.linkedin.com/company/kg-mobility",
+    youtube: null,
+    reddit: null,
   },
   founders: ["Ha Dong-hwan"],
   subsidiaries: [],

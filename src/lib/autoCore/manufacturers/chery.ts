@@ -11,6 +11,8 @@ export const chery: Manufacturer = {
     facebook: "https://www.facebook.com/CheryAutoOfficial",
     instagram: "https://www.instagram.com/chery_global",
     linkedin: "https://www.linkedin.com/company/chery",
+    youtube: "https://www.youtube.com/@cheryinternational_official",
+    reddit: "https://www.reddit.com/r/Chery",
   },
   founders: ["Anhui provincial government"],
   subsidiaries: ["Omoda", "Jaecoo", "Exeed", "Jetour"],

@@ -11,6 +11,8 @@ export const ldv: Manufacturer = {
     facebook: "https://www.facebook.com/LDVAutomotive",
     instagram: "https://www.instagram.com/ldvautomotive",
     linkedin: null,
+    youtube: null,
+    reddit: null,
   },
   founders: ["Leyland DAF Vans"],
   subsidiaries: [],

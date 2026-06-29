@@ -11,4 +11,10 @@ export const turbocharger: Part = {
   averageCostUsd: 1200,
   notableManufacturers: ["Garrett", "BorgWarner", "IHI", "Mitsubishi Turbocharger"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["fitment mockup", "inlet/outlet adapter prototype", "non-pressurized cover"],
+    idealMaterials: ["PA-CF (nylon carbon fiber)", "PC", "ASA"],
+    notes: "Functional compressor/turbine hardware is high-speed and high-temperature; printed polymer replacements are unsafe.",
+  },
 };

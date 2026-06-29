@@ -11,4 +11,10 @@ export const seat: Part = {
   averageCostUsd: 600,
   notableManufacturers: ["Lear", "Adient", "Faurecia", "Toyota Boshoku"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["trim cover", "plastic hinge cover", "spacer", "seat-rail end cap"],
+    idealMaterials: ["ASA", "PETG", "TPU", "PA-CF (nylon carbon fiber)"],
+    notes: "Print trim and caps only; seat frames, recliners, and anchors are safety-critical.",
+  },
 };

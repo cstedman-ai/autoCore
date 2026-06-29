@@ -11,6 +11,8 @@ export const lada: Manufacturer = {
     facebook: null,
     instagram: "https://www.instagram.com/lada.official",
     linkedin: "https://www.linkedin.com/company/avtovaz",
+    youtube: null,
+    reddit: null,
   },
   founders: ["AvtoVAZ"],
   subsidiaries: [],

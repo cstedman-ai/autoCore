@@ -11,6 +11,8 @@ export const seat: Manufacturer = {
     facebook: "https://www.facebook.com/SEAT",
     instagram: "https://www.instagram.com/seat",
     linkedin: "https://www.linkedin.com/company/seat",
+    youtube: "https://www.youtube.com/@SEAT",
+    reddit: "https://www.reddit.com/r/Seat",
   },
   founders: ["Instituto Nacional de Industria"],
   subsidiaries: ["Cupra"],

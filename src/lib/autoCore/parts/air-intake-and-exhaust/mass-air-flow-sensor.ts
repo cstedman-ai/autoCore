@@ -11,4 +11,10 @@ export const massAirFlowSensor: Part = {
   averageCostUsd: 120,
   notableManufacturers: ["Bosch", "Denso", "Hitachi", "ACDelco"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["sensor adapter tube", "mounting bracket", "protective cover"],
+    idealMaterials: ["ASA", "ABS", "PETG", "PA-CF (nylon carbon fiber)"],
+    notes: "Print only housings or adapters; the sensing element must remain OEM/electronic-grade.",
+  },
 };

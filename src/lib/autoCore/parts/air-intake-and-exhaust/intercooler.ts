@@ -11,4 +11,10 @@ export const intercooler: Part = {
   averageCostUsd: 250,
   notableManufacturers: ["Mishimoto", "Garrett", "Mahle", "Valeo"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["end-tank mockup", "ducting", "mounting brackets", "scoop/air guide"],
+    idealMaterials: ["ASA", "ABS", "PA-CF (nylon carbon fiber)", "PC"],
+    notes: "Print ducting and brackets; do not print a pressure-bearing intercooler core.",
+  },
 };

@@ -11,6 +11,8 @@ export const peugeot: Manufacturer = {
     facebook: "https://www.facebook.com/peugeot",
     instagram: "https://www.instagram.com/peugeot",
     linkedin: "https://www.linkedin.com/company/peugeot",
+    youtube: "https://www.youtube.com/@Peugeot",
+    reddit: "https://www.reddit.com/r/Peugeot",
   },
   founders: ["Armand Peugeot"],
   subsidiaries: [],

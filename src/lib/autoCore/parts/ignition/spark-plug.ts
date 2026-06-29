@@ -11,4 +11,10 @@ export const sparkPlug: Part = {
   averageCostUsd: 8,
   notableManufacturers: ["NGK", "Denso", "Bosch", "Champion"],
   usedIn: "gas",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["gap gauge holder", "thread protector", "display model"],
+    idealMaterials: ["PETG", "ASA", "PLA for display"],
+    notes: "Spark plugs require ceramic insulation and metal electrodes exposed to combustion heat.",
+  },
 };

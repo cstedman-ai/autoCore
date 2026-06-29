@@ -11,6 +11,8 @@ export const haval: Manufacturer = {
     facebook: "https://www.facebook.com/HavalGlobal",
     instagram: "https://www.instagram.com/haval.global",
     linkedin: "https://www.linkedin.com/company/haval",
+    youtube: null,
+    reddit: "https://www.reddit.com/r/Haval",
   },
   founders: ["Great Wall Motors"],
   subsidiaries: [],

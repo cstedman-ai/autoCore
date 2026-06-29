@@ -11,4 +11,10 @@ export const lugNut: Part = {
   averageCostUsd: 4,
   notableManufacturers: ["Gorilla", "McGard", "Dorman", "ACDelco"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["fitment mockup", "center cap", "wheel spacer mockup", "valve cap"],
+    idealMaterials: ["ASA", "PETG", "PA-CF (nylon carbon fiber)", "TPU for display tire models"],
+    notes: "Wheel, tire, and lug hardware are safety-critical and highly loaded; do not print functional replacements for road use.",
+  },
 };

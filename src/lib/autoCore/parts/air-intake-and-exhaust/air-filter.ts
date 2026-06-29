@@ -11,4 +11,10 @@ export const airFilter: Part = {
   averageCostUsd: 20,
   notableManufacturers: ["Mann-Filter", "K&N", "Fram", "Bosch"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["Airbox adapter", "filter frame", "intake snorkel", "prototype filter housing"],
+    idealMaterials: ["ASA", "ABS", "PETG", "PA-CF (nylon carbon fiber)"],
+    notes: "Printable housings/adapters are feasible; do not print the filtration media itself.",
+  },
 };

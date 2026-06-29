@@ -11,4 +11,10 @@ export const evaporativeCanister: Part = {
   averageCostUsd: 150,
   notableManufacturers: ["Dorman", "Bosch", "Standard Motor Products", "Toyota"],
   usedIn: "gas",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["mounting bracket", "hose clip", "protective cap"],
+    idealMaterials: ["ASA", "PETG", "PA-CF (nylon carbon fiber)"],
+    notes: "The charcoal canister must use proper adsorption media and emissions-rated housing.",
+  },
 };

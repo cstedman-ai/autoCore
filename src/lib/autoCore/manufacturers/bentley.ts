@@ -11,6 +11,8 @@ export const bentley: Manufacturer = {
     facebook: "https://www.facebook.com/BentleyMotors",
     instagram: "https://www.instagram.com/bentleymotors",
     linkedin: "https://www.linkedin.com/company/bentley-motors",
+    youtube: "https://www.youtube.com/@bentleymotors",
+    reddit: "https://www.reddit.com/r/Bentley",
   },
   founders: ["W. O. Bentley"],
   subsidiaries: [],

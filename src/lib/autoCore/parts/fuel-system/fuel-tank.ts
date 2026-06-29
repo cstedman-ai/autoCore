@@ -11,4 +11,10 @@ export const fuelTank: Part = {
   averageCostUsd: 300,
   notableManufacturers: ["Spectra Premium", "Dorman", "TYC", "Toyota"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["protective cap", "line routing clip", "fitment mockup", "service plug"],
+    idealMaterials: ["PA12 nylon (SLS)", "PA-CF (nylon carbon fiber)", "PETG for non-fuel contact"],
+    notes: "Fuel/ignition-pressure parts need chemical compatibility, sealing, and certification; do not install printed functional replacements.",
+  },
 };

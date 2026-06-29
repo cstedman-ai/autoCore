@@ -11,4 +11,10 @@ export const evaporator: Part = {
   averageCostUsd: 200,
   notableManufacturers: ["Denso", "Valeo", "Four Seasons", "Spectra Premium"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["fitment mockup", "line cap", "mounting bracket", "duct adapter"],
+    idealMaterials: ["ASA", "PA-CF (nylon carbon fiber)", "PC"],
+    notes: "Refrigerant/coolant heat exchangers and pressure parts are not suitable for printed functional replacements.",
+  },
 };

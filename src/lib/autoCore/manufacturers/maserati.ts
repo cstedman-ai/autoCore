@@ -11,6 +11,8 @@ export const maserati: Manufacturer = {
     facebook: "https://www.facebook.com/Maserati",
     instagram: "https://www.instagram.com/maserati",
     linkedin: "https://www.linkedin.com/company/maserati",
+    youtube: "https://www.youtube.com/@Maserati",
+    reddit: "https://www.reddit.com/r/Maserati",
   },
   founders: ["Alfieri Maserati", "Bindo Maserati", "Carlo Maserati", "Ettore Maserati", "Ernesto Maserati"],
   subsidiaries: [],

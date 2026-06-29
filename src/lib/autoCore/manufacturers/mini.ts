@@ -11,6 +11,8 @@ export const mini: Manufacturer = {
     facebook: "https://www.facebook.com/MINI",
     instagram: "https://www.instagram.com/mini",
     linkedin: "https://www.linkedin.com/company/mini",
+    youtube: "https://www.youtube.com/@MINI",
+    reddit: "https://www.reddit.com/r/MINI",
   },
   founders: ["Alec Issigonis", "British Motor Corporation"],
   subsidiaries: [],

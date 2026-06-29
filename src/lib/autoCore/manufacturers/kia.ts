@@ -11,6 +11,8 @@ export const kia: Manufacturer = {
     facebook: "https://www.facebook.com/kia",
     instagram: "https://www.instagram.com/kia.worldwide",
     linkedin: "https://www.linkedin.com/company/kia",
+    youtube: "https://www.youtube.com/@Kia",
+    reddit: "https://www.reddit.com/r/Kia",
   },
   founders: ["Kim Cheol-ho"],
   subsidiaries: [],

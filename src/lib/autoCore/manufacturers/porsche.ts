@@ -11,6 +11,8 @@ export const porsche: Manufacturer = {
     facebook: "https://www.facebook.com/porsche",
     instagram: "https://www.instagram.com/porsche",
     linkedin: "https://www.linkedin.com/company/porsche-ag",
+    youtube: "https://www.youtube.com/@Porsche",
+    reddit: "https://www.reddit.com/r/Porsche",
   },
   founders: ["Ferdinand Porsche"],
   subsidiaries: ["Porsche Design", "Bertrandt (stake)"],

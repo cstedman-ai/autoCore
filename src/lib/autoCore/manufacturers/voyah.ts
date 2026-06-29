@@ -11,6 +11,8 @@ export const voyah: Manufacturer = {
     facebook: "https://www.facebook.com/VoyahGlobal",
     instagram: "https://www.instagram.com/voyah_global",
     linkedin: "https://www.linkedin.com/company/voyah",
+    youtube: null,
+    reddit: null,
   },
   founders: ["Dongfeng Motor Corporation"],
   subsidiaries: [],

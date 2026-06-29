@@ -11,6 +11,8 @@ export const rover: Manufacturer = {
     facebook: null,
     instagram: null,
     linkedin: null,
+    youtube: null,
+    reddit: null,
   },
   founders: ["John Kemp Starley", "William Sutton"],
   subsidiaries: [],

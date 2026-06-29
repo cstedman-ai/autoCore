@@ -11,4 +11,10 @@ export const oilPan: Part = {
   averageCostUsd: 120,
   notableManufacturers: ["Dorman", "Spectra Premium", "Toyota", "ACDelco"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["prototype cover/pan", "low-load baffle", "cosmetic cover", "gasket template"],
+    idealMaterials: ["PA-CF (nylon carbon fiber)", "PC", "PA12 nylon (SLS)", "PEEK"],
+    notes: "Possible only with oil/heat-compatible materials and careful sealing; OEM metal/composite parts are safer for road use.",
+  },
 };

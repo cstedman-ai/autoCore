@@ -11,6 +11,8 @@ export const gmc: Manufacturer = {
     facebook: "https://www.facebook.com/gmc",
     instagram: "https://www.instagram.com/gmc",
     linkedin: "https://www.linkedin.com/showcase/gmc",
+    youtube: "https://www.youtube.com/@GMC",
+    reddit: "https://www.reddit.com/r/GMC",
   },
   founders: ["Max Grabowsky", "Morris Grabowsky"],
   subsidiaries: [],

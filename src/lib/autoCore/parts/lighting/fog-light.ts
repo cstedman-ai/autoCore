@@ -11,4 +11,10 @@ export const fogLight: Part = {
   averageCostUsd: 80,
   notableManufacturers: ["Hella", "PIAA", "Valeo", "Osram"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["housing repair tab", "mounting bracket", "bezel", "dust cap", "prototype lens mold"],
+    idealMaterials: ["ASA", "ABS", "PC", "PETG"],
+    notes: "Housings, tabs, and caps are printable; optical lenses require UV-stable clear materials and photometric validation.",
+  },
 };

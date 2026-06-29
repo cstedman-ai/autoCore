@@ -11,6 +11,8 @@ export const mg: Manufacturer = {
     facebook: "https://www.facebook.com/MGMotor",
     instagram: "https://www.instagram.com/mgmotor",
     linkedin: "https://www.linkedin.com/company/mg-motor",
+    youtube: "https://www.youtube.com/channel/UCMxEfg2S2YkS-M4sQNLW29w",
+    reddit: "https://www.reddit.com/r/MG",
   },
   founders: ["Cecil Kimber"],
   subsidiaries: [],

@@ -11,6 +11,8 @@ export const skoda: Manufacturer = {
     facebook: "https://www.facebook.com/skoda",
     instagram: "https://www.instagram.com/skodaauto",
     linkedin: "https://www.linkedin.com/company/skoda-auto",
+    youtube: "https://www.youtube.com/@skodaauto",
+    reddit: "https://www.reddit.com/r/skoda",
   },
   founders: ["Václav Laurin", "Václav Klement"],
   subsidiaries: [],

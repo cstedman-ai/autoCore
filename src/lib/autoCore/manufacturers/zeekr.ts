@@ -11,6 +11,8 @@ export const zeekr: Manufacturer = {
     facebook: "https://www.facebook.com/ZeekrGlobal",
     instagram: "https://www.instagram.com/zeekr.global",
     linkedin: "https://www.linkedin.com/company/zeekr",
+    youtube: null,
+    reddit: "https://www.reddit.com/r/Zeekr",
   },
   founders: ["Geely (Li Shufu)"],
   subsidiaries: [],

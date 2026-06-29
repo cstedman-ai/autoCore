@@ -11,6 +11,8 @@ export const faw: Manufacturer = {
     facebook: null,
     instagram: null,
     linkedin: "https://www.linkedin.com/company/faw-group",
+    youtube: null,
+    reddit: null,
   },
   founders: ["Government of the People's Republic of China"],
   subsidiaries: ["Hongqi", "Bestune", "Jiefang"],

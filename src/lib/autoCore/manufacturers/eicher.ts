@@ -11,6 +11,8 @@ export const eicher: Manufacturer = {
     facebook: "https://www.facebook.com/EicherTrucksAndBuses",
     instagram: "https://www.instagram.com/eichertrucksandbuses",
     linkedin: "https://www.linkedin.com/company/eicher-trucks-and-buses",
+    youtube: null,
+    reddit: null,
   },
   founders: ["Vaibhav Lal (Eicher Goodearth)"],
   subsidiaries: ["VE Commercial Vehicles", "Royal Enfield"],

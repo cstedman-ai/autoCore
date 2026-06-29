@@ -11,6 +11,8 @@ export const changan: Manufacturer = {
     facebook: "https://www.facebook.com/ChanganAutoGlobal",
     instagram: "https://www.instagram.com/changanautoglobal",
     linkedin: "https://www.linkedin.com/company/changan-automobile",
+    youtube: null,
+    reddit: null,
   },
   founders: ["Li Hongzhang (as Shanghai Foreign Gun Bureau)"],
   subsidiaries: ["Deepal", "Avatr", "Nevo"],

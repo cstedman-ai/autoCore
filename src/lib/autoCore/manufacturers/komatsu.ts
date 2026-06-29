@@ -11,6 +11,8 @@ export const komatsu: Manufacturer = {
     facebook: "https://www.facebook.com/KomatsuLtd",
     instagram: "https://www.instagram.com/komatsu_ltd",
     linkedin: "https://www.linkedin.com/company/komatsu",
+    youtube: null,
+    reddit: null,
   },
   founders: ["Meitaro Takeuchi"],
   subsidiaries: ["Komatsu Mining (Joy Global)"],

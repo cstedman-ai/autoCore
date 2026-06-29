@@ -11,4 +11,10 @@ export const cabinAirFilter: Part = {
   averageCostUsd: 20,
   notableManufacturers: ["Mann-Filter", "Bosch", "Fram", "Denso"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["filter frame", "adapter tray", "cover door"],
+    idealMaterials: ["PETG", "ASA", "ABS"],
+    notes: "Print frames/adapters; do not print the filter media.",
+  },
 };

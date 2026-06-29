@@ -11,6 +11,8 @@ export const renault: Manufacturer = {
     facebook: "https://www.facebook.com/renault",
     instagram: "https://www.instagram.com/renault",
     linkedin: "https://www.linkedin.com/company/groupe-renault",
+    youtube: "https://www.youtube.com/@renault",
+    reddit: "https://www.reddit.com/r/Renault",
   },
   founders: ["Louis Renault", "Marcel Renault", "Fernand Renault"],
   subsidiaries: ["Dacia", "Alpine", "Renault Samsung Motors", "Mobilize"],

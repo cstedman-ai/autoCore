@@ -11,6 +11,8 @@ export const pagani: Manufacturer = {
     facebook: "https://www.facebook.com/PaganiAutomobili",
     instagram: "https://www.instagram.com/paganiautomobili",
     linkedin: "https://www.linkedin.com/company/pagani-automobili",
+    youtube: "https://www.youtube.com/@PaganiAutomobili",
+    reddit: null,
   },
   founders: ["Horacio Pagani"],
   subsidiaries: [],

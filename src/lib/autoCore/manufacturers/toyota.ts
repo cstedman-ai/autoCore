@@ -11,6 +11,8 @@ export const toyota: Manufacturer = {
     facebook: "https://www.facebook.com/toyota",
     instagram: "https://www.instagram.com/toyota",
     linkedin: "https://www.linkedin.com/company/toyota",
+    youtube: "https://www.youtube.com/@ToyotaUSA",
+    reddit: "https://www.reddit.com/r/Toyota",
   },
   founders: ["Kiichiro Toyoda"],
   subsidiaries: ["Lexus", "Daihatsu", "Hino", "Toyota Industries"],

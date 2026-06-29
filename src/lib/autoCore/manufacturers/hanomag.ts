@@ -11,6 +11,8 @@ export const hanomag: Manufacturer = {
     facebook: null,
     instagram: null,
     linkedin: null,
+    youtube: null,
+    reddit: null,
   },
   founders: ["Georg Egestorff"],
   subsidiaries: [],

@@ -11,4 +11,10 @@ export const egrValve: Part = {
   averageCostUsd: 150,
   notableManufacturers: ["Bosch", "Standard Motor Products", "Delphi", "Pierburg"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["blanking template for diagnostics", "connector cover", "fitment mockup"],
+    idealMaterials: ["ASA", "PA-CF (nylon carbon fiber)", "PC"],
+    notes: "Functional EGR valves handle hot exhaust gas and must not be replaced with printed plastic.",
+  },
 };

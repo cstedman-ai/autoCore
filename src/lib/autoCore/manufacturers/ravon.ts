@@ -11,6 +11,8 @@ export const ravon: Manufacturer = {
     facebook: null,
     instagram: null,
     linkedin: null,
+    youtube: null,
+    reddit: null,
   },
   founders: ["UzAuto Motors"],
   subsidiaries: [],

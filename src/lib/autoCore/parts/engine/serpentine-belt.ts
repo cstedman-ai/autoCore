@@ -11,4 +11,10 @@ export const serpentineBelt: Part = {
   averageCostUsd: 30,
   notableManufacturers: ["Gates", "Dayco", "Continental", "Bosch"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["routing guide", "length-check mockup", "pulley alignment tool"],
+    idealMaterials: ["TPU for mockups", "PETG", "ASA"],
+    notes: "Drive belts require reinforced rubber/fiber construction and cannot be safely replaced by typical prints.",
+  },
 };

@@ -11,6 +11,8 @@ export const triumph: Manufacturer = {
     facebook: null,
     instagram: null,
     linkedin: null,
+    youtube: null,
+    reddit: null,
   },
   founders: ["Siegfried Bettmann"],
   subsidiaries: [],

@@ -11,4 +11,10 @@ export const airbagControlUnit: Part = {
   averageCostUsd: 300,
   notableManufacturers: ["Bosch", "Continental", "Autoliv", "Denso"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["training mockup", "connector cover", "trim blank"],
+    idealMaterials: ["PLA for training models", "ASA", "PETG"],
+    notes: "Restraint systems are safety-critical pyrotechnic/electronic assemblies and must not be functionally 3D printed.",
+  },
 };

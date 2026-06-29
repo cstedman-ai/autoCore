@@ -11,4 +11,10 @@ export const bumper: Part = {
   averageCostUsd: 300,
   notableManufacturers: ["Toyota", "Ford", "TYC", "Replace"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["cosmetic shell", "trim piece", "mounting tab", "prototype panel"],
+    idealMaterials: ["ASA", "ABS", "PETG", "PA-CF (nylon carbon fiber)"],
+    notes: "Good candidates for cosmetic or low-load exterior pieces when UV/heat-resistant materials are used.",
+  },
 };

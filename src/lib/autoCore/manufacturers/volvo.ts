@@ -11,6 +11,8 @@ export const volvo: Manufacturer = {
     facebook: "https://www.facebook.com/volvocars",
     instagram: "https://www.instagram.com/volvocars",
     linkedin: "https://www.linkedin.com/company/volvo-cars",
+    youtube: "https://www.youtube.com/@volvocars",
+    reddit: "https://www.reddit.com/r/Volvo",
   },
   founders: ["Assar Gabrielsson", "Gustaf Larson"],
   subsidiaries: ["Polestar (stake)"],

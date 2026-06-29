@@ -11,4 +11,10 @@ export const throttleBody: Part = {
   averageCostUsd: 180,
   notableManufacturers: ["Bosch", "Hitachi", "Denso", "ACDelco"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["linkage spacer", "velocity stack prototype", "gasket template", "adapter mockup"],
+    idealMaterials: ["PA-CF (nylon carbon fiber)", "PC", "ASA"],
+    notes: "Adapters or prototypes may be printed, but functional metering/throttle hardware needs fuel-safe, heat-resistant, precision parts.",
+  },
 };

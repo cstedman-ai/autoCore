@@ -11,4 +11,10 @@ export const valveStem: Part = {
   averageCostUsd: 5,
   notableManufacturers: ["Schrader", "Dill", "Pacific", "Standard"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["sensor bracket", "valve cap", "installation tool", "protective holder"],
+    idealMaterials: ["PETG", "ASA", "TPU"],
+    notes: "Caps/tools are printable; pressure-sealing valves and electronics should remain rated components.",
+  },
 };

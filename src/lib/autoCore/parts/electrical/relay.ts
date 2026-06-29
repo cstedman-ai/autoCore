@@ -11,4 +11,10 @@ export const relay: Part = {
   averageCostUsd: 15,
   notableManufacturers: ["Bosch", "Tyco", "Omron", "Hella"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["electronics enclosure", "relay holder", "fuse-box cover", "mounting bracket"],
+    idealMaterials: ["ASA", "PETG", "PC", "flame-retardant ABS/PC"],
+    notes: "Enclosures and holders are printable; use heat/flame-resistant material near electrical loads.",
+  },
 };

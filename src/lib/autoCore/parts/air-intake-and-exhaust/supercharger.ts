@@ -11,4 +11,10 @@ export const supercharger: Part = {
   averageCostUsd: 2500,
   notableManufacturers: ["Eaton", "Vortech", "Whipple", "Roush"],
   usedIn: "gas",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["fitment mockup", "inlet/outlet adapter prototype", "non-pressurized cover"],
+    idealMaterials: ["PA-CF (nylon carbon fiber)", "PC", "ASA"],
+    notes: "Functional compressor/turbine hardware is high-speed and high-temperature; printed polymer replacements are unsafe.",
+  },
 };

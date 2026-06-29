@@ -11,4 +11,10 @@ export const battery12v: Part = {
   averageCostUsd: 150,
   notableManufacturers: ["Exide", "Bosch", "Optima", "Varta"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["terminal cover", "hold-down spacer", "battery tray adapter"],
+    idealMaterials: ["ASA", "PETG", "TPU"],
+    notes: "Never print a functional lead-acid/AGM battery; only covers, spacers, and tray adapters are appropriate.",
+  },
 };

@@ -11,6 +11,8 @@ export const subaru: Manufacturer = {
     facebook: "https://www.facebook.com/subaru",
     instagram: "https://www.instagram.com/subaru_usa",
     linkedin: "https://www.linkedin.com/company/subaru-of-america",
+    youtube: "https://www.youtube.com/@subaru",
+    reddit: "https://www.reddit.com/r/subaru",
   },
   founders: ["Kenji Kita", "Chikuhei Nakajima"],
   subsidiaries: [],

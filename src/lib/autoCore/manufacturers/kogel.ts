@@ -11,6 +11,8 @@ export const kogel: Manufacturer = {
     facebook: "https://www.facebook.com/KoegelTrailer",
     instagram: "https://www.instagram.com/koegel_trailer",
     linkedin: "https://www.linkedin.com/company/koegel-trailer-gmbh",
+    youtube: null,
+    reddit: null,
   },
   founders: ["Franz Kögel"],
   subsidiaries: [],

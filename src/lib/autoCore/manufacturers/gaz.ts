@@ -11,6 +11,8 @@ export const gaz: Manufacturer = {
     facebook: null,
     instagram: null,
     linkedin: null,
+    youtube: null,
+    reddit: null,
   },
   founders: ["Soviet government", "Ford Motor Company (technical partner)"],
   subsidiaries: [],

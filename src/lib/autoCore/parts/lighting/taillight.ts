@@ -11,4 +11,10 @@ export const taillight: Part = {
   averageCostUsd: 150,
   notableManufacturers: ["Hella", "Koito", "Valeo", "TYC"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["housing repair tab", "mounting bracket", "bezel", "dust cap", "prototype lens mold"],
+    idealMaterials: ["ASA", "ABS", "PC", "PETG"],
+    notes: "Housings, tabs, and caps are printable; optical lenses require UV-stable clear materials and photometric validation.",
+  },
 };

@@ -11,6 +11,8 @@ export const chrysler: Manufacturer = {
     facebook: "https://www.facebook.com/chrysler",
     instagram: "https://www.instagram.com/chrysler",
     linkedin: "https://www.linkedin.com/company/chrysler",
+    youtube: "https://www.youtube.com/@Chrysler",
+    reddit: "https://www.reddit.com/r/Chrysler",
   },
   founders: ["Walter Chrysler"],
   subsidiaries: [],

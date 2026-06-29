@@ -11,6 +11,8 @@ export const saab: Manufacturer = {
     facebook: null,
     instagram: null,
     linkedin: null,
+    youtube: null,
+    reddit: "https://www.reddit.com/r/Saab",
   },
   founders: ["Svenska Aeroplan AB"],
   subsidiaries: [],

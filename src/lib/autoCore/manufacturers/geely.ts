@@ -11,6 +11,8 @@ export const geely: Manufacturer = {
     facebook: "https://www.facebook.com/GeelyAuto",
     instagram: "https://www.instagram.com/geely.global",
     linkedin: "https://www.linkedin.com/company/geely",
+    youtube: "https://www.youtube.com/@GeelyAutoGlobal",
+    reddit: "https://www.reddit.com/r/Geely",
   },
   founders: ["Li Shufu"],
   subsidiaries: ["Volvo Cars", "Polestar", "Lotus", "Lynk & Co", "Zeekr", "Proton (49.9%)"],

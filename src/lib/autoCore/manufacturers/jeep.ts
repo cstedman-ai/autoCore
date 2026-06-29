@@ -11,6 +11,8 @@ export const jeep: Manufacturer = {
     facebook: "https://www.facebook.com/jeep",
     instagram: "https://www.instagram.com/jeep",
     linkedin: "https://www.linkedin.com/company/jeep",
+    youtube: "https://www.youtube.com/@Jeep",
+    reddit: "https://www.reddit.com/r/Jeep",
   },
   founders: ["Willys-Overland"],
   subsidiaries: [],

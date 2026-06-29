@@ -11,6 +11,8 @@ export const schmitz: Manufacturer = {
     facebook: "https://www.facebook.com/SchmitzCargobull",
     instagram: "https://www.instagram.com/schmitzcargobull",
     linkedin: "https://www.linkedin.com/company/schmitz-cargobull-ag",
+    youtube: null,
+    reddit: null,
   },
   founders: ["Heinrich Schmitz"],
   subsidiaries: [],

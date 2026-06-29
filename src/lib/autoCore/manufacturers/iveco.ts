@@ -11,6 +11,8 @@ export const iveco: Manufacturer = {
     facebook: "https://www.facebook.com/Iveco",
     instagram: "https://www.instagram.com/iveco_official",
     linkedin: "https://www.linkedin.com/company/iveco",
+    youtube: "https://www.youtube.com/@IVECO",
+    reddit: null,
   },
   founders: ["Fiat (merger of five European brands)"],
   subsidiaries: ["Astra", "Magirus"],

@@ -11,6 +11,8 @@ export const liAuto: Manufacturer = {
     facebook: null,
     instagram: null,
     linkedin: "https://www.linkedin.com/company/li-auto",
+    youtube: "https://www.youtube.com/@li-auto",
+    reddit: null,
   },
   founders: ["Li Xiang"],
   subsidiaries: [],

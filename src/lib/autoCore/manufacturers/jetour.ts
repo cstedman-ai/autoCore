@@ -11,6 +11,8 @@ export const jetour: Manufacturer = {
     facebook: "https://www.facebook.com/JetourAutoGlobal",
     instagram: "https://www.instagram.com/jetour.global",
     linkedin: null,
+    youtube: null,
+    reddit: null,
   },
   founders: ["Chery Holding Group"],
   subsidiaries: [],

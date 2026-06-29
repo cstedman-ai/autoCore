@@ -11,6 +11,8 @@ export const lamborghini: Manufacturer = {
     facebook: "https://www.facebook.com/Lamborghini",
     instagram: "https://www.instagram.com/lamborghini",
     linkedin: "https://www.linkedin.com/company/automobili-lamborghini",
+    youtube: "https://www.youtube.com/@Lamborghini",
+    reddit: "https://www.reddit.com/r/Lamborghini",
   },
   founders: ["Ferruccio Lamborghini"],
   subsidiaries: [],

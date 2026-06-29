@@ -11,6 +11,8 @@ export const lincoln: Manufacturer = {
     facebook: "https://www.facebook.com/lincoln",
     instagram: "https://www.instagram.com/lincoln",
     linkedin: "https://www.linkedin.com/company/lincoln-motor-company",
+    youtube: "https://www.youtube.com/@lincoln",
+    reddit: null,
   },
   founders: ["Henry Leland"],
   subsidiaries: [],

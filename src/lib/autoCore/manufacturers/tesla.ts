@@ -11,6 +11,8 @@ export const tesla: Manufacturer = {
     facebook: "https://www.facebook.com/tesla",
     instagram: "https://www.instagram.com/teslamotors",
     linkedin: "https://www.linkedin.com/company/tesla-motors",
+    youtube: "https://www.youtube.com/@tesla",
+    reddit: "https://www.reddit.com/r/teslamotors",
   },
   founders: ["Martin Eberhard", "Marc Tarpenning", "Elon Musk", "JB Straubel", "Ian Wright"],
   subsidiaries: ["Tesla Energy", "SolarCity"],
