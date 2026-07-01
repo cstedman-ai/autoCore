@@ -11,6 +11,8 @@ export const daf: Manufacturer = {
     facebook: "https://www.facebook.com/DAFTrucks",
     instagram: "https://www.instagram.com/daftrucks",
     linkedin: "https://www.linkedin.com/company/daf-trucks-nv",
+    youtube: "https://www.youtube.com/@DAFTrucks",
+    reddit: null,
   },
   founders: ["Hubert van Doorne", "Wim van Doorne"],
   subsidiaries: ["Leyland Trucks"],

@@ -11,4 +11,10 @@ export const electricTractionMotor: Part = {
   averageCostUsd: 4000,
   notableManufacturers: ["Bosch", "Nidec", "BorgWarner", "Tesla"],
   usedIn: "electric",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["fitment mockup", "cooling duct", "connector cover", "mounting template"],
+    idealMaterials: ["PA-CF (nylon carbon fiber)", "PC", "ASA"],
+    notes: "Functional rotating/torque-carrying EV drive parts require metals, precision machining, insulation, and certification.",
+  },
 };

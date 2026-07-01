@@ -11,6 +11,8 @@ export const saturn: Manufacturer = {
     facebook: null,
     instagram: null,
     linkedin: null,
+    youtube: null,
+    reddit: null,
   },
   founders: ["General Motors"],
   subsidiaries: [],

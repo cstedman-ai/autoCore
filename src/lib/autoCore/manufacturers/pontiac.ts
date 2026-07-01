@@ -11,6 +11,8 @@ export const pontiac: Manufacturer = {
     facebook: null,
     instagram: null,
     linkedin: null,
+    youtube: null,
+    reddit: "https://www.reddit.com/r/Pontiac",
   },
   founders: ["General Motors"],
   subsidiaries: [],

@@ -11,4 +11,10 @@ export const distributor: Part = {
   averageCostUsd: 120,
   notableManufacturers: ["Bosch", "Delco", "MSD", "Hitachi"],
   usedIn: "gas",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["cap mockup", "mounting bracket", "wire separator", "protective cover"],
+    idealMaterials: ["ASA", "PETG", "PC"],
+    notes: "Print covers/brackets only; high-voltage ignition internals require rated dielectric materials and precision contacts.",
+  },
 };

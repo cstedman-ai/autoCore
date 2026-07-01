@@ -11,6 +11,8 @@ export const daewoo: Manufacturer = {
     facebook: null,
     instagram: null,
     linkedin: null,
+    youtube: null,
+    reddit: null,
   },
   founders: ["Kim Woo-choong"],
   subsidiaries: [],

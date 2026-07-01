@@ -11,6 +11,8 @@ export const citroen: Manufacturer = {
     facebook: "https://www.facebook.com/citroen",
     instagram: "https://www.instagram.com/citroen",
     linkedin: "https://www.linkedin.com/company/citroen",
+    youtube: "https://www.youtube.com/@Citroen",
+    reddit: "https://www.reddit.com/r/Citroen",
   },
   founders: ["André Citroën"],
   subsidiaries: ["DS Automobiles"],

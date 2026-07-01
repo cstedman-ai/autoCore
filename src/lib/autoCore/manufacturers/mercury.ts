@@ -11,6 +11,8 @@ export const mercury: Manufacturer = {
     facebook: null,
     instagram: null,
     linkedin: null,
+    youtube: null,
+    reddit: null,
   },
   founders: ["Edsel Ford"],
   subsidiaries: [],

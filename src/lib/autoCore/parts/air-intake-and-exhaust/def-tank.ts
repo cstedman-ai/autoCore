@@ -11,4 +11,10 @@ export const defTank: Part = {
   averageCostUsd: 300,
   notableManufacturers: ["Bosch", "Continental", "Cummins", "Tenneco"],
   usedIn: "diesel",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["cap", "bracket", "splash shield", "non-pressurized reservoir prototype"],
+    idealMaterials: ["HDPE-compatible industrial printing", "PA12 nylon (SLS)", "ASA"],
+    notes: "DEF-compatible materials and leak testing are required; avoid printing heated pumps/sensors or road-use tanks without validation.",
+  },
 };

@@ -11,6 +11,8 @@ export const hongqi: Manufacturer = {
     facebook: "https://www.facebook.com/HongqiGlobal",
     instagram: "https://www.instagram.com/hongqi.global",
     linkedin: null,
+    youtube: null,
+    reddit: null,
   },
   founders: ["First Automobile Works (FAW)"],
   subsidiaries: [],

@@ -11,4 +11,10 @@ export const oilFilter: Part = {
   averageCostUsd: 12,
   notableManufacturers: ["Mann-Filter", "Mahle", "Fram", "Bosch", "WIX"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["filter wrench", "drain guide", "thread protector"],
+    idealMaterials: ["PETG", "ASA", "PA-CF (nylon carbon fiber)"],
+    notes: "Do not print the pressure-bearing filter canister or filtration media.",
+  },
 };

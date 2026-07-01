@@ -11,4 +11,10 @@ export const chargingPort: Part = {
   averageCostUsd: 400,
   notableManufacturers: ["Phoenix Contact", "TE Connectivity", "Amphenol", "Yazaki"],
   usedIn: "electric",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["charge-port bezel", "weather cap", "connector holster", "mounting bracket"],
+    idealMaterials: ["ASA", "PC", "TPU", "PA-CF (nylon carbon fiber)"],
+    notes: "Printable covers and bezels are feasible; the electrical connector must be certified.",
+  },
 };

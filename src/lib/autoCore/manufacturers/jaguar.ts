@@ -11,6 +11,8 @@ export const jaguar: Manufacturer = {
     facebook: "https://www.facebook.com/jaguar",
     instagram: "https://www.instagram.com/jaguar",
     linkedin: "https://www.linkedin.com/company/jaguar-land-rover",
+    youtube: "https://www.youtube.com/@Jaguar",
+    reddit: "https://www.reddit.com/r/Jaguar",
   },
   founders: ["William Lyons", "William Walmsley"],
   subsidiaries: [],

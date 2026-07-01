@@ -11,6 +11,8 @@ export const lancia: Manufacturer = {
     facebook: "https://www.facebook.com/lancia",
     instagram: "https://www.instagram.com/lancia",
     linkedin: "https://www.linkedin.com/company/lancia",
+    youtube: null,
+    reddit: null,
   },
   founders: ["Vincenzo Lancia", "Claudio Fogolin"],
   subsidiaries: [],

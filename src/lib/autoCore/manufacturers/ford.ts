@@ -11,6 +11,8 @@ export const ford: Manufacturer = {
     facebook: "https://www.facebook.com/ford",
     instagram: "https://www.instagram.com/ford",
     linkedin: "https://www.linkedin.com/company/ford-motor-company",
+    youtube: "https://www.youtube.com/@Ford",
+    reddit: "https://www.reddit.com/r/Ford",
   },
   founders: ["Henry Ford"],
   subsidiaries: ["Lincoln", "Ford Pro", "Troller"],

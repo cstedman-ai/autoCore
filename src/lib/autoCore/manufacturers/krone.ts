@@ -11,6 +11,8 @@ export const krone: Manufacturer = {
     facebook: "https://www.facebook.com/KroneCommercial",
     instagram: "https://www.instagram.com/krone_commercial",
     linkedin: "https://www.linkedin.com/company/krone-commercial",
+    youtube: null,
+    reddit: null,
   },
   founders: ["Bernard Krone"],
   subsidiaries: [],

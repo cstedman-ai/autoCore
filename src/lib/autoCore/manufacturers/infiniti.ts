@@ -11,6 +11,8 @@ export const infiniti: Manufacturer = {
     facebook: "https://www.facebook.com/Infiniti",
     instagram: "https://www.instagram.com/infiniti",
     linkedin: "https://www.linkedin.com/company/infiniti",
+    youtube: "https://www.youtube.com/Infiniti",
+    reddit: "https://www.reddit.com/r/Infiniti",
   },
   founders: ["Nissan Motor Co., Ltd."],
   subsidiaries: [],

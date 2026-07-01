@@ -11,6 +11,8 @@ export const daihatsu: Manufacturer = {
     facebook: "https://www.facebook.com/daihatsu",
     instagram: "https://www.instagram.com/daihatsu_official",
     linkedin: "https://www.linkedin.com/company/daihatsu-motor",
+    youtube: null,
+    reddit: null,
   },
   founders: ["Yoshinki Yasunaga", "Turuki Rokuro"],
   subsidiaries: ["Perodua (stake)"],

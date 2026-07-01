@@ -11,6 +11,8 @@ export const lexus: Manufacturer = {
     facebook: "https://www.facebook.com/lexus",
     instagram: "https://www.instagram.com/lexususa",
     linkedin: "https://www.linkedin.com/company/lexus",
+    youtube: "https://www.youtube.com/@Lexus",
+    reddit: "https://www.reddit.com/r/Lexus",
   },
   founders: ["Toyota Motor Corporation"],
   subsidiaries: [],

@@ -35,6 +35,22 @@ export type PartCategory =
   | "Lighting"
   | "Electric Vehicle";
 
+export type ThreeDPrinting = {
+  /**
+   * Whether a vehicle-use version, accessory, housing, cover, adapter, or
+   * low-load variant of this part can reasonably be 3D printed. Safety-critical
+   * functional replacements are marked false even if mockups or shop aids can
+   * be printed.
+   */
+  possible: boolean;
+  /** Specific printable items related to this part, including mockups or aids. */
+  printableItems: string[];
+  /** Recommended print materials for the printable items. */
+  idealMaterials: string[];
+  /** Practical safety / durability caveat. */
+  notes: string;
+};
+
 export type Part = {
   /** Display name of the part. */
   name: string;
@@ -56,4 +72,6 @@ export type Part = {
   notableManufacturers: string[];
   /** Powertrain type(s) the part is used in. */
   usedIn: DriveType;
+  /** 3D-printability guidance for this part or related non-critical items. */
+  threeDPrinting: ThreeDPrinting;
 };

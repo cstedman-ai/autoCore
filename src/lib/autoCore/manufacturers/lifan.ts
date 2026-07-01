@@ -11,6 +11,8 @@ export const lifan: Manufacturer = {
     facebook: null,
     instagram: null,
     linkedin: null,
+    youtube: null,
+    reddit: null,
   },
   founders: ["Yin Mingshan"],
   subsidiaries: [],

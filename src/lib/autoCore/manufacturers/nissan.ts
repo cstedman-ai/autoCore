@@ -11,6 +11,8 @@ export const nissan: Manufacturer = {
     facebook: "https://www.facebook.com/NissanUSA",
     instagram: "https://www.instagram.com/nissan",
     linkedin: "https://www.linkedin.com/company/nissan-motor-corporation",
+    youtube: "https://www.youtube.com/@Nissan",
+    reddit: "https://www.reddit.com/r/Nissan",
   },
   founders: ["Yoshisuke Aikawa", "Masujiro Hashimoto"],
   subsidiaries: ["Infiniti", "Datsun"],

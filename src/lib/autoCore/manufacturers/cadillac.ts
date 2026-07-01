@@ -11,6 +11,8 @@ export const cadillac: Manufacturer = {
     facebook: "https://www.facebook.com/cadillac",
     instagram: "https://www.instagram.com/cadillac",
     linkedin: "https://www.linkedin.com/showcase/cadillac",
+    youtube: "https://www.youtube.com/@Cadillac",
+    reddit: "https://www.reddit.com/r/Cadillac",
   },
   founders: ["Henry Leland"],
   subsidiaries: [],

@@ -11,4 +11,10 @@ export const intakeManifold: Part = {
   averageCostUsd: 250,
   notableManufacturers: ["Edelbrock", "Dorman", "Mishimoto", "Toyota"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["prototype manifold", "low-boost custom runner", "vacuum fitting adapter"],
+    idealMaterials: ["PA-CF (nylon carbon fiber)", "PA12 nylon (SLS)", "PC", "PEEK"],
+    notes: "Possible for prototypes or specialty low-load use with testing; production/high-boost installs need engineering validation.",
+  },
 };

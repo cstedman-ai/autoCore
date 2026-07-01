@@ -11,6 +11,8 @@ export const opel: Manufacturer = {
     facebook: "https://www.facebook.com/opel",
     instagram: "https://www.instagram.com/opel",
     linkedin: "https://www.linkedin.com/company/opel",
+    youtube: "https://www.youtube.com/@Opel",
+    reddit: "https://www.reddit.com/r/Opel",
   },
   founders: ["Adam Opel"],
   subsidiaries: ["Vauxhall"],

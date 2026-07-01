@@ -11,4 +11,10 @@ export const blowerMotor: Part = {
   averageCostUsd: 90,
   notableManufacturers: ["Denso", "Valeo", "Four Seasons", "Bosch"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["duct adapter", "mounting bracket", "protective cover"],
+    idealMaterials: ["ASA", "ABS", "PETG", "PA-CF (nylon carbon fiber)"],
+    notes: "Print brackets/covers; the motor and balanced blower wheel should remain manufactured components.",
+  },
 };

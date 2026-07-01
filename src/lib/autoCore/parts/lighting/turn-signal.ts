@@ -11,4 +11,10 @@ export const turnSignal: Part = {
   averageCostUsd: 30,
   notableManufacturers: ["Hella", "Osram", "Philips", "TYC"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["housing repair tab", "mounting bracket", "bezel", "dust cap", "prototype lens mold"],
+    idealMaterials: ["ASA", "ABS", "PC", "PETG"],
+    notes: "Housings, tabs, and caps are printable; optical lenses require UV-stable clear materials and photometric validation.",
+  },
 };

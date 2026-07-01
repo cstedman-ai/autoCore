@@ -11,4 +11,10 @@ export const gearSelector: Part = {
   averageCostUsd: 120,
   notableManufacturers: ["Dorman", "ZF", "Ficosa", "Kongsberg"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["shift knob", "selector trim", "electronics enclosure", "mounting bracket"],
+    idealMaterials: ["ASA", "ABS", "PETG", "PA-CF (nylon carbon fiber)"],
+    notes: "User-interface parts, trim, and enclosures are printable; transmission internals are not.",
+  },
 };

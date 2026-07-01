@@ -11,6 +11,8 @@ export const plymouth: Manufacturer = {
     facebook: null,
     instagram: null,
     linkedin: null,
+    youtube: null,
+    reddit: null,
   },
   founders: ["Walter Chrysler"],
   subsidiaries: [],

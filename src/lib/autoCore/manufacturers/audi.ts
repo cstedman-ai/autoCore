@@ -11,6 +11,8 @@ export const audi: Manufacturer = {
     facebook: "https://www.facebook.com/audi",
     instagram: "https://www.instagram.com/audiofficial",
     linkedin: "https://www.linkedin.com/company/audi-ag",
+    youtube: "https://www.youtube.com/@audi",
+    reddit: "https://www.reddit.com/r/Audi",
   },
   founders: ["August Horch"],
   subsidiaries: ["Lamborghini", "Ducati", "Bentley", "Italdesign Giugiaro"],

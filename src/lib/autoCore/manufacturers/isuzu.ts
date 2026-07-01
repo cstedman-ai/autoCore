@@ -11,6 +11,8 @@ export const isuzu: Manufacturer = {
     facebook: "https://www.facebook.com/isuzu",
     instagram: "https://www.instagram.com/isuzu_global",
     linkedin: "https://www.linkedin.com/company/isuzu-motors-limited",
+    youtube: "https://www.youtube.com/channel/UCqK0MY3NfXX5fth6A9GCcyA",
+    reddit: "https://www.reddit.com/r/Isuzu",
   },
   founders: ["Tokyo Ishikawajima Shipbuilding and Engineering"],
   subsidiaries: ["UD Trucks"],

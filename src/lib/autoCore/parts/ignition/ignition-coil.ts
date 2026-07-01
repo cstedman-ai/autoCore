@@ -11,4 +11,10 @@ export const ignitionCoil: Part = {
   averageCostUsd: 60,
   notableManufacturers: ["Bosch", "Denso", "Delphi", "NGK"],
   usedIn: "gas",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["cap mockup", "mounting bracket", "wire separator", "protective cover"],
+    idealMaterials: ["ASA", "PETG", "PC"],
+    notes: "Print covers/brackets only; high-voltage ignition internals require rated dielectric materials and precision contacts.",
+  },
 };

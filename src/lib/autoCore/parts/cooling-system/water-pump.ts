@@ -11,4 +11,10 @@ export const waterPump: Part = {
   averageCostUsd: 90,
   notableManufacturers: ["Aisin", "Gates", "GMB", "Bosch"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["fitment mockup", "mounting bracket", "hose routing guide"],
+    idealMaterials: ["ASA", "PA-CF (nylon carbon fiber)", "PC"],
+    notes: "Functional cooling hardware handles heat, pressure, seals, and moving parts; printed replacements need professional validation.",
+  },
 };

@@ -11,6 +11,8 @@ export const chevrolet: Manufacturer = {
     facebook: "https://www.facebook.com/chevrolet",
     instagram: "https://www.instagram.com/chevrolet",
     linkedin: "https://www.linkedin.com/showcase/chevrolet",
+    youtube: "https://www.youtube.com/@chevrolet",
+    reddit: "https://www.reddit.com/r/Chevy",
   },
   founders: ["Louis Chevrolet", "William C. Durant"],
   subsidiaries: [],

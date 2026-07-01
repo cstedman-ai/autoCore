@@ -11,4 +11,10 @@ export const instrumentCluster: Part = {
   averageCostUsd: 250,
   notableManufacturers: ["Continental", "Visteon", "Denso", "Bosch"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["bezel", "gauge pod", "switch blank", "trim panel", "mounting bracket"],
+    idealMaterials: ["ASA", "ABS", "PETG", "PC"],
+    notes: "Good candidates for interior trim and housings; avoid airbag deployment zones unless validated.",
+  },
 };

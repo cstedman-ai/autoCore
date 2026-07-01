@@ -11,4 +11,10 @@ export const steeringRack: Part = {
   averageCostUsd: 350,
   notableManufacturers: ["TRW", "Bosch", "ZF", "Cardone"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["fitment mockup", "dust cover", "routing bracket", "alignment tool"],
+    idealMaterials: ["ASA", "PETG", "PA-CF (nylon carbon fiber)"],
+    notes: "Steering load paths and hydraulic parts are safety-critical; do not install printed functional replacements.",
+  },
 };

@@ -11,6 +11,8 @@ export const mazda: Manufacturer = {
     facebook: "https://www.facebook.com/Mazda",
     instagram: "https://www.instagram.com/mazdausa",
     linkedin: "https://www.linkedin.com/company/mazda-motor-corporation",
+    youtube: "https://www.youtube.com/user/mazdaofficialweb",
+    reddit: "https://www.reddit.com/r/mazda",
   },
   founders: ["Jujiro Matsuda"],
   subsidiaries: [],

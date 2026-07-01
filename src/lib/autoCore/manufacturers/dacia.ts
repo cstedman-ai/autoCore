@@ -11,6 +11,8 @@ export const dacia: Manufacturer = {
     facebook: "https://www.facebook.com/dacia",
     instagram: "https://www.instagram.com/dacia.official",
     linkedin: "https://www.linkedin.com/company/dacia",
+    youtube: null,
+    reddit: "https://www.reddit.com/r/Dacia",
   },
   founders: ["Romanian state (Uzina de Autoturisme Pitești)"],
   subsidiaries: [],

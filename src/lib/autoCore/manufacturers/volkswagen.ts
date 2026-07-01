@@ -11,6 +11,8 @@ export const volkswagen: Manufacturer = {
     facebook: "https://www.facebook.com/volkswagen",
     instagram: "https://www.instagram.com/volkswagen",
     linkedin: "https://www.linkedin.com/company/volkswagen",
+    youtube: "https://www.youtube.com/@volkswagen",
+    reddit: "https://www.reddit.com/r/Volkswagen",
   },
   founders: ["German Labour Front", "Ferdinand Porsche"],
   subsidiaries: [],

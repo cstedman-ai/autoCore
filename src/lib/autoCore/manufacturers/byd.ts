@@ -11,6 +11,8 @@ export const byd: Manufacturer = {
     facebook: "https://www.facebook.com/bydcompany",
     instagram: "https://www.instagram.com/bydglobal",
     linkedin: "https://www.linkedin.com/company/byd",
+    youtube: "https://www.youtube.com/@BYDGlobal",
+    reddit: "https://www.reddit.com/r/BYD",
   },
   founders: ["Wang Chuanfu"],
   subsidiaries: ["Denza", "Yangwang", "Fang Cheng Bao", "BYD Electronic"],

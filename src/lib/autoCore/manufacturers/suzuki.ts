@@ -11,6 +11,8 @@ export const suzuki: Manufacturer = {
     facebook: "https://www.facebook.com/SuzukiGlobalAutomobile",
     instagram: "https://www.instagram.com/suzukimotor_global",
     linkedin: "https://www.linkedin.com/company/suzuki-motor-corporation",
+    youtube: "https://www.youtube.com/@SuzukiGlobal_official",
+    reddit: "https://www.reddit.com/r/Suzuki",
   },
   founders: ["Michio Suzuki"],
   subsidiaries: ["Maruti Suzuki"],

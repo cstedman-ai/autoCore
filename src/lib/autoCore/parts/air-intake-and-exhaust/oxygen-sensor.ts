@@ -11,4 +11,10 @@ export const oxygenSensor: Part = {
   averageCostUsd: 70,
   notableManufacturers: ["Bosch", "Denso", "NGK NTK", "Walker"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["socket guide", "wire clip", "protective cap"],
+    idealMaterials: ["PETG", "ASA", "PA-CF (nylon carbon fiber)"],
+    notes: "The sensor is an electronic/ceramic high-temperature device; only non-critical accessories are printable.",
+  },
 };

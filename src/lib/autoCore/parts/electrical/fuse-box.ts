@@ -11,4 +11,10 @@ export const fuseBox: Part = {
   averageCostUsd: 120,
   notableManufacturers: ["Littelfuse", "Bosch", "Eaton", "TE Connectivity"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["electronics enclosure", "relay holder", "fuse-box cover", "mounting bracket"],
+    idealMaterials: ["ASA", "PETG", "PC", "flame-retardant ABS/PC"],
+    notes: "Enclosures and holders are printable; use heat/flame-resistant material near electrical loads.",
+  },
 };

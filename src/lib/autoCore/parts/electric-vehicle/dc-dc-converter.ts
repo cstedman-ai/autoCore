@@ -11,4 +11,10 @@ export const dcDcConverter: Part = {
   averageCostUsd: 800,
   notableManufacturers: ["Bosch", "Delta", "Vicor", "Continental"],
   usedIn: "electric",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["electronics enclosure", "mounting bracket", "connector cover", "cooling duct"],
+    idealMaterials: ["PC", "PA-CF (nylon carbon fiber)", "ASA", "flame-retardant ABS/PC"],
+    notes: "Print only insulated enclosures/covers/brackets; electronics and high-voltage components must remain certified.",
+  },
 };

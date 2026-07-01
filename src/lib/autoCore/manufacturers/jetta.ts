@@ -11,6 +11,8 @@ export const jetta: Manufacturer = {
     facebook: null,
     instagram: null,
     linkedin: null,
+    youtube: null,
+    reddit: null,
   },
   founders: ["FAW-Volkswagen"],
   subsidiaries: [],

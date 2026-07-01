@@ -11,6 +11,8 @@ export const proton: Manufacturer = {
     facebook: "https://www.facebook.com/proton",
     instagram: "https://www.instagram.com/proton",
     linkedin: "https://www.linkedin.com/company/proton",
+    youtube: "https://www.youtube.com/@PROTON",
+    reddit: null,
   },
   founders: ["Mahathir Mohamad"],
   subsidiaries: ["Lotus (historical)"],

@@ -11,6 +11,8 @@ export const mitsubishi: Manufacturer = {
     facebook: "https://www.facebook.com/MitsubishiMotors",
     instagram: "https://www.instagram.com/mitsubishimotors",
     linkedin: "https://www.linkedin.com/company/mitsubishi-motors-corporation",
+    youtube: "https://www.youtube.com/@MitsubishiMotors",
+    reddit: "https://www.reddit.com/r/mitsubishi",
   },
   founders: ["Yataro Iwasaki (Mitsubishi)"],
   subsidiaries: [],

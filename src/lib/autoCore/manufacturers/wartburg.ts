@@ -11,6 +11,8 @@ export const wartburg: Manufacturer = {
     facebook: null,
     instagram: null,
     linkedin: null,
+    youtube: null,
+    reddit: null,
   },
   founders: ["VEB Automobilwerk Eisenach"],
   subsidiaries: [],

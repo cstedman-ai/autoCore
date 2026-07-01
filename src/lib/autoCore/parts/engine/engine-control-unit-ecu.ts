@@ -11,4 +11,10 @@ export const engineControlUnitEcu: Part = {
   averageCostUsd: 500,
   notableManufacturers: ["Bosch", "Denso", "Continental", "Delphi"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["ECU case", "mounting bracket", "connector cover"],
+    idealMaterials: ["flame-retardant ABS/PC", "ASA", "PC", "PA-CF (nylon carbon fiber)"],
+    notes: "Print enclosures/brackets only; electronics must remain protected from heat, vibration, and moisture.",
+  },
 };

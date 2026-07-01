@@ -11,4 +11,10 @@ export const wiperBlade: Part = {
   averageCostUsd: 20,
   notableManufacturers: ["Bosch", "Trico", "Rain-X", "Valeo"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["blade adapter", "end cap", "shipping/protective cover"],
+    idealMaterials: ["ASA", "PETG", "TPU"],
+    notes: "Adapters and caps can be printed; the wiping rubber should be molded elastomer.",
+  },
 };

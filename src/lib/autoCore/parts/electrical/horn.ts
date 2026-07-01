@@ -11,4 +11,10 @@ export const horn: Part = {
   averageCostUsd: 25,
   notableManufacturers: ["Hella", "Bosch", "Stebel", "Fiamm"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["mounting bracket", "protective cover", "hose/wire clip"],
+    idealMaterials: ["ASA", "PETG", "PA-CF (nylon carbon fiber)"],
+    notes: "Print non-load/non-sealed accessories; motors and pumps should remain manufactured parts.",
+  },
 };

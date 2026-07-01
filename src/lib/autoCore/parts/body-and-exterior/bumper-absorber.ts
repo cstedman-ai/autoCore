@@ -11,4 +11,10 @@ export const bumperAbsorber: Part = {
   averageCostUsd: 60,
   notableManufacturers: ["Toyota", "Ford", "Dorman", "Replace"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["shape mockup", "mounting guide"],
+    idealMaterials: ["ASA", "PLA for mockups"],
+    notes: "Crash-energy absorbers require certified foam/crush behavior; do not use printed replacements for impact protection.",
+  },
 };

@@ -11,6 +11,8 @@ export const honda: Manufacturer = {
     facebook: "https://www.facebook.com/Honda",
     instagram: "https://www.instagram.com/honda",
     linkedin: "https://www.linkedin.com/company/american-honda-motor-company",
+    youtube: "https://www.youtube.com/@Honda",
+    reddit: "https://www.reddit.com/r/Honda",
   },
   founders: ["Soichiro Honda", "Takeo Fujisawa"],
   subsidiaries: ["Acura", "Honda Aircraft Company"],

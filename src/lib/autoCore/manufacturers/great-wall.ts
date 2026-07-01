@@ -11,6 +11,8 @@ export const greatWall: Manufacturer = {
     facebook: "https://www.facebook.com/GWMGlobal",
     instagram: "https://www.instagram.com/gwm.global",
     linkedin: "https://www.linkedin.com/company/gwm-global",
+    youtube: "https://www.youtube.com/@gwm-global",
+    reddit: null,
   },
   founders: ["Wei Jianjun"],
   subsidiaries: ["Haval", "Wey", "Ora", "Tank", "Great Wall Pickup"],

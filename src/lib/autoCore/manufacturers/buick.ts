@@ -11,6 +11,8 @@ export const buick: Manufacturer = {
     facebook: "https://www.facebook.com/buick",
     instagram: "https://www.instagram.com/buick",
     linkedin: "https://www.linkedin.com/showcase/buick",
+    youtube: "https://www.youtube.com/@buick",
+    reddit: "https://www.reddit.com/r/Buick",
   },
   founders: ["David Dunbar Buick"],
   subsidiaries: [],

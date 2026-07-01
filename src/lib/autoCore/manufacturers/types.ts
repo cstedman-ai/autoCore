@@ -11,6 +11,8 @@ export type SocialMedia = {
   facebook: string | null;
   instagram: string | null;
   linkedin: string | null;
+  youtube: string | null;
+  reddit: string | null;
 };
 
 /** A representative vehicle with an approximate new price in USD. */

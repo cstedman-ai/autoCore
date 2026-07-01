@@ -11,4 +11,10 @@ export const hoodGasStrut: Part = {
   averageCostUsd: 25,
   notableManufacturers: ["Stabilus", "StrongArm", "Tuff Support", "Dorman"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["mounting spacer", "protective clip", "fitment jig"],
+    idealMaterials: ["PA-CF (nylon carbon fiber)", "PETG", "ASA"],
+    notes: "A pressurized gas strut is not printable as a safe functional part.",
+  },
 };

@@ -11,4 +11,10 @@ export const steeringWheel: Part = {
   averageCostUsd: 200,
   notableManufacturers: ["Toyota", "Ford", "Momo", "Grant"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["trim insert", "button blank", "horn cover for non-airbag wheels", "decorative adapter"],
+    idealMaterials: ["ASA", "PETG", "TPU", "PA-CF (nylon carbon fiber)"],
+    notes: "Print trim only; structural wheel hubs and airbag-equipped components are safety-critical.",
+  },
 };

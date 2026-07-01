@@ -11,4 +11,10 @@ export const absModule: Part = {
   averageCostUsd: 500,
   notableManufacturers: ["Bosch", "Continental", "ATE", "TRW"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["fitment mockup", "line routing clip", "dust cap", "inspection template"],
+    idealMaterials: ["PETG", "ASA", "PA-CF (nylon carbon fiber)"],
+    notes: "Brake components are safety-critical, pressure-bearing, friction, or heat-loaded; do not install printed functional replacements.",
+  },
 };

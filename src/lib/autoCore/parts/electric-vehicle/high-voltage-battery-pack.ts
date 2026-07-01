@@ -11,4 +11,10 @@ export const highVoltageBatteryPack: Part = {
   averageCostUsd: 12000,
   notableManufacturers: ["CATL", "LG Energy Solution", "Panasonic", "BYD"],
   usedIn: "electric",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["module spacer prototype", "service plug cover", "non-conductive guard", "layout mockup"],
+    idealMaterials: ["flame-retardant PC/ABS", "PA12 nylon (SLS)", "PA-CF (nylon carbon fiber)"],
+    notes: "Do not print battery modules, containment, or structural crash parts for road use; HV safety and fire performance are critical.",
+  },
 };

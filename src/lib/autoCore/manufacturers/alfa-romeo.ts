@@ -11,6 +11,8 @@ export const alfaRomeo: Manufacturer = {
     facebook: "https://www.facebook.com/alfaromeo",
     instagram: "https://www.instagram.com/alfaromeo",
     linkedin: "https://www.linkedin.com/company/alfa-romeo",
+    youtube: "https://www.youtube.com/@alfaromeo",
+    reddit: "https://www.reddit.com/r/alfaromeo",
   },
   founders: ["Alexandre Darracq", "Nicola Romeo"],
   subsidiaries: [],

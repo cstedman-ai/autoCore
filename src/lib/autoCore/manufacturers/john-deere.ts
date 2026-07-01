@@ -11,6 +11,8 @@ export const johnDeere: Manufacturer = {
     facebook: "https://www.facebook.com/JohnDeere",
     instagram: "https://www.instagram.com/johndeere",
     linkedin: "https://www.linkedin.com/company/john-deere",
+    youtube: "https://www.youtube.com/@JohnDeere",
+    reddit: "https://www.reddit.com/r/JohnDeere",
   },
   founders: ["John Deere"],
   subsidiaries: ["Wirtgen Group", "Blue River Technology"],

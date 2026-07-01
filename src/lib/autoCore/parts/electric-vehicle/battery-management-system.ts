@@ -11,4 +11,10 @@ export const batteryManagementSystem: Part = {
   averageCostUsd: 600,
   notableManufacturers: ["Bosch", "Continental", "LG", "Texas Instruments"],
   usedIn: "electric",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["electronics enclosure", "mounting bracket", "connector cover", "cooling duct"],
+    idealMaterials: ["PC", "PA-CF (nylon carbon fiber)", "ASA", "flame-retardant ABS/PC"],
+    notes: "Print only insulated enclosures/covers/brackets; electronics and high-voltage components must remain certified.",
+  },
 };

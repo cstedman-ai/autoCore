@@ -11,6 +11,8 @@ export const smart: Manufacturer = {
     facebook: "https://www.facebook.com/smart",
     instagram: "https://www.instagram.com/smart",
     linkedin: "https://www.linkedin.com/company/smart-automobile",
+    youtube: "https://www.youtube.com/@smart",
+    reddit: "https://www.reddit.com/r/SmartCar",
   },
   founders: ["Nicolas Hayek", "Mercedes-Benz"],
   subsidiaries: [],

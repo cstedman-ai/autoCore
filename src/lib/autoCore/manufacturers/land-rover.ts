@@ -11,6 +11,8 @@ export const landRover: Manufacturer = {
     facebook: "https://www.facebook.com/landrover",
     instagram: "https://www.instagram.com/landrover",
     linkedin: "https://www.linkedin.com/company/jaguar-land-rover",
+    youtube: "https://www.youtube.com/@LandRover",
+    reddit: "https://www.reddit.com/r/LandRover",
   },
   founders: ["Maurice Wilks", "Spencer Wilks"],
   subsidiaries: [],

@@ -11,6 +11,8 @@ export const hyundai: Manufacturer = {
     facebook: "https://www.facebook.com/Hyundai",
     instagram: "https://www.instagram.com/hyundai",
     linkedin: "https://www.linkedin.com/company/hyundai-motor-company",
+    youtube: "https://www.youtube.com/@Hyundai",
+    reddit: "https://www.reddit.com/r/Hyundai",
   },
   founders: ["Chung Ju-yung"],
   subsidiaries: ["Kia", "Genesis", "Hyundai Mobis"],

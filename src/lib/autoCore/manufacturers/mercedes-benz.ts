@@ -11,6 +11,8 @@ export const mercedesBenz: Manufacturer = {
     facebook: "https://www.facebook.com/mercedesbenz",
     instagram: "https://www.instagram.com/mercedesbenz",
     linkedin: "https://www.linkedin.com/company/mercedes-benz-ag",
+    youtube: "https://www.youtube.com/@MercedesBenz",
+    reddit: "https://www.reddit.com/r/mercedes_benz",
   },
   founders: ["Karl Benz", "Gottlieb Daimler"],
   subsidiaries: ["Mercedes-AMG", "Mercedes-Maybach", "Smart (50%)"],

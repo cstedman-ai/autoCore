@@ -11,4 +11,10 @@ export const thermostat: Part = {
   averageCostUsd: 25,
   notableManufacturers: ["Gates", "Stant", "Motorad", "Wahler"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["fitment mockup", "mounting bracket", "hose routing guide"],
+    idealMaterials: ["ASA", "PA-CF (nylon carbon fiber)", "PC"],
+    notes: "Functional cooling hardware handles heat, pressure, seals, and moving parts; printed replacements need professional validation.",
+  },
 };

@@ -11,6 +11,8 @@ export const scania: Manufacturer = {
     facebook: "https://www.facebook.com/scaniagroup",
     instagram: "https://www.instagram.com/scaniagroup",
     linkedin: "https://www.linkedin.com/company/scania-group",
+    youtube: "https://www.youtube.com/@ScaniaTrucksBuses",
+    reddit: null,
   },
   founders: ["Gustaf Erikson", "Peter Petersson"],
   subsidiaries: [],

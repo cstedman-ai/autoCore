@@ -11,6 +11,8 @@ export const bmw: Manufacturer = {
     facebook: "https://www.facebook.com/BMW",
     instagram: "https://www.instagram.com/bmw",
     linkedin: "https://www.linkedin.com/company/bmw",
+    youtube: "https://www.youtube.com/@BMW",
+    reddit: "https://www.reddit.com/r/BMW",
   },
   founders: ["Franz Josef Popp", "Karl Rapp", "Camillo Castiglioni"],
   subsidiaries: ["MINI", "Rolls-Royce Motor Cars", "BMW Motorrad"],

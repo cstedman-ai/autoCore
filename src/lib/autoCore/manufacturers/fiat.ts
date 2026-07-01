@@ -11,6 +11,8 @@ export const fiat: Manufacturer = {
     facebook: "https://www.facebook.com/fiat",
     instagram: "https://www.instagram.com/fiat",
     linkedin: "https://www.linkedin.com/company/fiat",
+    youtube: "https://www.youtube.com/@fiat",
+    reddit: "https://www.reddit.com/r/Fiat",
   },
   founders: ["Giovanni Agnelli"],
   subsidiaries: ["Abarth"],

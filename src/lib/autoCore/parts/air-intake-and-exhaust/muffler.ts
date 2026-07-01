@@ -11,4 +11,10 @@ export const muffler: Part = {
   averageCostUsd: 120,
   notableManufacturers: ["Walker", "Magnaflow", "Flowmaster", "Borla"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["fitment mockup", "hanger template", "tip trim prototype"],
+    idealMaterials: ["Metal additive manufacturing (316L stainless/Inconel) for professional prototypes", "ASA for mockups"],
+    notes: "Exhaust parts see extreme heat, corrosion, pressure, and emissions requirements; polymer prints are not functional replacements.",
+  },
 };

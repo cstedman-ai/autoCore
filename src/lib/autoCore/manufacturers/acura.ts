@@ -11,6 +11,8 @@ export const acura: Manufacturer = {
     facebook: "https://www.facebook.com/Acura",
     instagram: "https://www.instagram.com/acura",
     linkedin: "https://www.linkedin.com/company/acura",
+    youtube: "https://www.youtube.com/@Acura",
+    reddit: "https://www.reddit.com/r/Acura",
   },
   founders: ["Honda Motor Co., Ltd."],
   subsidiaries: [],

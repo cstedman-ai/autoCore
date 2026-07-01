@@ -11,4 +11,10 @@ export const engineMount: Part = {
   averageCostUsd: 90,
   notableManufacturers: ["Anchor", "Lemforder", "Corteco", "Westar"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: false,
+    printableItems: ["fitment mockup", "spacer template", "bracket prototype"],
+    idealMaterials: ["TPU for non-road mockups", "PA-CF (nylon carbon fiber)", "ASA"],
+    notes: "Engine mounts carry load and vibration; functional elastomer/metal bonded mounts should not be printed for road use.",
+  },
 };

@@ -11,4 +11,10 @@ export const washerPump: Part = {
   averageCostUsd: 20,
   notableManufacturers: ["Bosch", "Trico", "ACDelco", "Continental"],
   usedIn: "all",
+  threeDPrinting: {
+    possible: true,
+    printableItems: ["mounting bracket", "protective cover", "hose/wire clip"],
+    idealMaterials: ["ASA", "PETG", "PA-CF (nylon carbon fiber)"],
+    notes: "Print non-load/non-sealed accessories; motors and pumps should remain manufactured parts.",
+  },
 };

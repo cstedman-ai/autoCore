@@ -11,6 +11,8 @@ export const dodge: Manufacturer = {
     facebook: "https://www.facebook.com/dodge",
     instagram: "https://www.instagram.com/dodgeofficial",
     linkedin: "https://www.linkedin.com/company/dodge",
+    youtube: "https://www.youtube.com/@Dodge",
+    reddit: "https://www.reddit.com/r/Dodge",
   },
   founders: ["John Francis Dodge", "Horace Elgin Dodge"],
   subsidiaries: [],

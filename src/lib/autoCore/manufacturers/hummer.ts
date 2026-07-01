@@ -11,6 +11,8 @@ export const hummer: Manufacturer = {
     facebook: null,
     instagram: "https://www.instagram.com/gmc",
     linkedin: null,
+    youtube: null,
+    reddit: "https://www.reddit.com/r/Hummer",
   },
   founders: ["AM General"],
   subsidiaries: [],

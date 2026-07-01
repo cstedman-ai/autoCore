@@ -11,6 +11,8 @@ export const man: Manufacturer = {
     facebook: "https://www.facebook.com/MANTruckandBus",
     instagram: "https://www.instagram.com/man_trucks",
     linkedin: "https://www.linkedin.com/company/man-truck-bus",
+    youtube: "https://www.youtube.com/@MANTruckBus",
+    reddit: null,
   },
   founders: ["Heinrich Buz", "Ludwig Sander"],
   subsidiaries: ["Neoplan"],
