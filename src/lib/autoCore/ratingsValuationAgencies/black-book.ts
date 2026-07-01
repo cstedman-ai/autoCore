@@ -4,6 +4,7 @@ export const blackBook: RatingValuationAgency = {
   name: "Black Book",
   description: "Automotive valuation company (National Auto Research) providing wholesale and used-vehicle pricing data.",
   website: "https://www.blackbook.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Black_Book_(National_Auto_Research)",
   email: null,
   headquarters: "Lawrenceville, Georgia, USA",
   socialMedia: {

@@ -4,6 +4,7 @@ export const insuranceInstituteForHighwaySafety: RatingValuationAgency = {
   name: "Insurance Institute for Highway Safety (IIHS)",
   description: "Non-profit funded by auto insurers that rates vehicle safety via crash testing and issues Top Safety Pick awards.",
   website: "https://www.iihs.org",
+  wikipedia: "https://en.wikipedia.org/wiki/Insurance_Institute_for_Highway_Safety",
   email: "info@iihs.org",
   headquarters: "Arlington, Virginia, USA",
   socialMedia: {

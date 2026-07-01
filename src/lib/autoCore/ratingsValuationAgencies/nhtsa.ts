@@ -4,6 +4,7 @@ export const nhtsa: RatingValuationAgency = {
   name: "NHTSA (NCAP)",
   description: "US government agency whose New Car Assessment Program publishes 5-Star Safety Ratings for vehicles.",
   website: "https://www.nhtsa.gov",
+  wikipedia: "https://en.wikipedia.org/wiki/National_Highway_Traffic_Safety_Administration",
   email: null,
   headquarters: "Washington, D.C., USA",
   socialMedia: {

@@ -4,6 +4,7 @@ export const kelleyBlueBook: RatingValuationAgency = {
   name: "Kelley Blue Book",
   description: "Vehicle valuation and research company providing new/used car pricing, expert reviews, and videos.",
   website: "https://www.kbb.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Kelley_Blue_Book",
   email: null,
   headquarters: "Irvine, California, USA",
   socialMedia: {

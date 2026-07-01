@@ -4,6 +4,7 @@ export const cargurus: RatingValuationAgency = {
   name: "CarGurus",
   description: "Automotive marketplace providing Instant Market Value pricing and deal ratings for listings.",
   website: "https://www.cargurus.com",
+  wikipedia: "https://en.wikipedia.org/wiki/CarGurus",
   email: null,
   headquarters: "Cambridge, Massachusetts, USA",
   socialMedia: {

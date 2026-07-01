@@ -4,6 +4,7 @@ export const euroNcap: RatingValuationAgency = {
   name: "Euro NCAP",
   description: "European New Car Assessment Programme that crash-tests vehicles and publishes star safety ratings.",
   website: "https://www.euroncap.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Euro_NCAP",
   email: "communications@euroncap.com",
   headquarters: "Leuven, Belgium",
   socialMedia: {

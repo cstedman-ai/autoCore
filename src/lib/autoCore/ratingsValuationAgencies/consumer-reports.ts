@@ -4,6 +4,7 @@ export const consumerReports: RatingValuationAgency = {
   name: "Consumer Reports",
   description: "Independent non-profit providing unbiased car reviews, reliability ratings, and annual best-car lists.",
   website: "https://www.consumerreports.org",
+  wikipedia: "https://en.wikipedia.org/wiki/Consumer_Reports",
   email: null,
   headquarters: "Yonkers, New York, USA",
   socialMedia: {

@@ -4,6 +4,7 @@ export const edmunds: RatingValuationAgency = {
   name: "Edmunds",
   description: "Automotive research site offering expert reviews, ratings, pricing, and used-car valuations.",
   website: "https://www.edmunds.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Edmunds_(company)",
   email: null,
   headquarters: "Santa Monica, California, USA",
   socialMedia: {
