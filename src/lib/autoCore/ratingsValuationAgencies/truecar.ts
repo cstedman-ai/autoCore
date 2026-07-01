@@ -4,6 +4,7 @@ export const truecar: RatingValuationAgency = {
   name: "TrueCar",
   description: "Automotive pricing and digital marketplace offering market-based price ratings for new and used cars.",
   website: "https://www.truecar.com",
+  wikipedia: "https://en.wikipedia.org/wiki/TrueCar",
   email: null,
   headquarters: "Santa Monica, California, USA",
   socialMedia: {

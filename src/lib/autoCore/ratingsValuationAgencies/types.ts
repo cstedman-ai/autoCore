@@ -29,6 +29,8 @@ export type RatingValuationAgency = {
   description: string;
   /** Primary website, or null. */
   website: string | null;
+  /** Wikipedia page for the agency, or null if no suitable page exists. */
+  wikipedia: string | null;
   /** Public contact email, or null if not published. */
   email: string | null;
   /** Headquarters location, or null if unknown. */

@@ -4,6 +4,7 @@ export const carAndDriver: RatingValuationAgency = {
   name: "Car and Driver",
   description: "American automotive magazine publishing expert vehicle reviews, road tests, ratings, and rankings.",
   website: "https://www.caranddriver.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Car_and_Driver",
   email: "editors@caranddriver.com",
   headquarters: "Ann Arbor, Michigan, USA",
   socialMedia: {

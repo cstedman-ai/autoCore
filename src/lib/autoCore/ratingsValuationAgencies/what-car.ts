@@ -4,6 +4,7 @@ export const whatCar: RatingValuationAgency = {
   name: "What Car?",
   description: "British car-buying brand running annual reliability surveys and awards based on real-world owner data.",
   website: "https://www.whatcar.com",
+  wikipedia: "https://en.wikipedia.org/wiki/What_Car%3F",
   email: "whatcar@whatcar.com",
   headquarters: "Twickenham, London, United Kingdom",
   socialMedia: {

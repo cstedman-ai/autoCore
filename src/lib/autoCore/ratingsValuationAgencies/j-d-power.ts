@@ -4,6 +4,7 @@ export const jDPower: RatingValuationAgency = {
   name: "J.D. Power",
   description: "Consumer analytics firm known for vehicle dependability, quality, and customer-satisfaction studies.",
   website: "https://www.jdpower.com",
+  wikipedia: "https://en.wikipedia.org/wiki/J.D._Power",
   email: null,
   headquarters: "Troy, Michigan, USA",
   socialMedia: {

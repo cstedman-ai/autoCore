@@ -4,6 +4,7 @@ export const roadAndTrack: RatingValuationAgency = {
   name: "Road & Track",
   description: "American automotive enthusiast magazine publishing road tests, reviews, and performance ratings.",
   website: "https://www.roadandtrack.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Road_%26_Track",
   email: "editors@roadandtrack.com",
   headquarters: "New York, New York, USA",
   socialMedia: {

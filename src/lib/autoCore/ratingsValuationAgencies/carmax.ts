@@ -4,6 +4,7 @@ export const carmax: RatingValuationAgency = {
   name: "CarMax",
   description: "Largest US used-car retailer that also collects and publishes owner reliability ratings.",
   website: "https://www.carmax.com",
+  wikipedia: "https://en.wikipedia.org/wiki/CarMax",
   email: null,
   headquarters: "Richmond, Virginia, USA",
   socialMedia: {

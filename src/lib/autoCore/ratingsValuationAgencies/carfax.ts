@@ -4,6 +4,7 @@ export const carfax: RatingValuationAgency = {
   name: "Carfax",
   description: "Provider of vehicle history reports and used-car listings, including reliability and owner data.",
   website: "https://www.carfax.com",
+  wikipedia: "https://en.wikipedia.org/wiki/Carfax",
   email: null,
   headquarters: "Centreville, Virginia, USA",
   socialMedia: {
